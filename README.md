@@ -5,7 +5,11 @@ This repository showcases **example projects** built with **[MIT App Inventor](h
 
 ---
 
+App Inventor is an open-source programming environment which allows beginner coders to build their own fully functional apps for Android Operating System.
 
+It is composed of a “designer” section where you visually design your app layout and a “blocks” sections where you include the code to run your app.
+
+To use this program, you just need a gmail address. Then click here and click on “Create apps!” on the top to log in.
 
 
 ## **🔑 Keywords**
