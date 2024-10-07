@@ -10,14 +10,7 @@ This repository showcases **example projects** built with **[MIT App Inventor](h
 
 ## **🔑 Keywords**
 
-`MIT App Inventor`, `IoT`, `Mobile App`, `Android App Development`, `GPS`, `Sensors`, `Bluetooth`, `Arduino`, `IoT Applications`, `No-Code`, `STEAM Education`, `Educational Tools`, `Block-Based Coding`, `Cloud Services`
-
----
-
-## **📌 Tags**
-
-`MIT App Inventor`, `Mobile App Development`, `IoT`, `Hardware Interfacing`, `Sensors`, `Bluetooth`, `GPS Tracking`, `Real-Time Data`, `Arduino Integration`, `Robotics`, `No-Code Development`, `Cloud Integration`
-
+[MIT App Inventor](http://appinventor.mit.edu/), [IoT](https://en.wikipedia.org/wiki/Internet_of_things), [Mobile App](https://en.wikipedia.org/wiki/Mobile_app), [Android App Development](https://en.wikipedia.org/wiki/Mobile_app), [GPS](https://en.wikipedia.org/wiki/Global_Positioning_System), [Sensors](https://en.wikipedia.org/wiki/Sensor), [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth), [Arduino](https://www.arduino.cc/), [IoT Applications](https://en.wikipedia.org/wiki/Internet_of_things), [No-Code](https://en.wikipedia.org/wiki/No-code_development_platform), [STEAM Education](https://en.wikipedia.org/wiki/STEAM), [Educational Tools](https://en.wikipedia.org/wiki/Educational_technology), [Block-Based Coding](https://en.wikipedia.org/wiki/Visual_programming_language), [Cloud Services](https://en.wikipedia.org/wiki/Cloud_computing)
 
 
 
@@ -133,22 +126,35 @@ Explore these real-world projects to see how you can integrate hardware with **A
 
 ---
 
-## **📌 Tags**
 
-```markdown
-- [MIT App Inventor](http://appinventor.mit.edu/)
-- [Mobile App Development](https://en.wikipedia.org/wiki/Mobile_app)
-- [IoT](https://en.wikipedia.org/wiki/Internet_of_things)
-- [Hardware Interfacing](https://en.wikipedia.org/wiki/Embedded_system)
-- [Sensors](https://en.wikipedia.org/wiki/Sensor)
-- [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth)
-- [GPS Tracking](https://en.wikipedia.org/wiki/Global_Positioning_System)
-- [Real-Time Data](https://en.wikipedia.org/wiki/Real-time_computing)
-- [Arduino Integration](https://www.arduino.cc/)
-- [Robotics](https://en.wikipedia.org/wiki/Robotics)
-- [No-Code Development](https://en.wikipedia.org/wiki/No-code_development_platform)
-- [Cloud Integration](https://en.wikipedia.org/wiki/Cloud_computing)
-```
+
+
+
+
+## **📚 Tutorial References**
+
+- [Getting Started with MIT App Inventor](https://appinventor.mit.edu/explore/ai2/tutorials/) *A comprehensive guide to help you begin your journey with MIT App Inventor.*
+
+- [Build Your First App](https://appinventor.mit.edu/explore/ai2/tutorials/firstapp/)  *Step-by-step instructions to create your very first mobile application.*
+
+- [MIT App Inventor Documentation](http://appinventor.mit.edu/explore/ai2/docs/)  *Official documentation containing detailed information on all features and functionalities.*
+
+- [Connecting to Bluetooth Devices](https://appinventor.mit.edu/explore/ai2/tutorials/bluetooth/)  *Learn how to establish a Bluetooth connection between your app and hardware devices.*
+
+- [Using the Location Sensor](https://appinventor.mit.edu/explore/ai2/tutorials/location/)  *A guide to using GPS location data within your applications.*
+
+- [Creating a Simple IoT App](https://appinventor.mit.edu/explore/ai2/tutorials/iot/)  *Instructions for building your first Internet of Things (IoT) application.*
+
+- [How to Use the Firebase Database](https://appinventor.mit.edu/explore/ai2/tutorials/firebase/)  *Learn how to integrate Firebase for real-time data storage and retrieval.*
+
+- [App Inventor for Educators](https://appinventor.mit.edu/explore/ai2/educators/)  *Resources and strategies for educators looking to teach app development.*
+
+- [Advanced Features in MIT App Inventor](https://appinventor.mit.edu/explore/ai2/tutorials/advanced/)  *Explore advanced functionalities to enhance your applications.*
 
 ---
+
+## **📌 Tags**
+
+[MIT App Inventor](http://appinventor.mit.edu/), [Mobile App Development](https://en.wikipedia.org/wiki/Mobile_app), [IoT](https://en.wikipedia.org/wiki/Internet_of_things), [Hardware Interfacing](https://en.wikipedia.org/wiki/Embedded_system), [Sensors](https://en.wikipedia.org/wiki/Sensor), [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth), [GPS Tracking](https://en.wikipedia.org/wiki/Global_Positioning_System), [Real-Time Data](https://en.wikipedia.org/wiki/Real-time_computing), [Arduino Integration](https://www.arduino.cc/), [Robotics](https://en.wikipedia.org/wiki/Robotics), [No-Code Development](https://en.wikipedia.org/wiki/No-code_development_platform), [Cloud Integration](https://en.wikipedia.org/wiki/Cloud_computing)
+
 
