@@ -1,7 +1,7 @@
 # 🌟 App-Inventor-Examples 🌟
 This repository showcases **example projects** built with **[MIT App Inventor](http://appinventor.mit.edu/)**, covering key concepts like **IoT**, **hardware interfacing**, **GPS tracking**, and **real-time data handling**. These examples are perfect for **beginners** and **educators** seeking to explore mobile app development and **no-code** programming.
 
-![MIT App Inventor Banner](https://appinventor.mit.edu/assets/images/appinventor_logo_wide.png)  
+![MIT App Inventor Banner](https://github.com/gmostofabd/App-Inventor-Examples/blob/895ed89efe173b3dbe135ecfb84592c3b2a01591/assets/images/MIT%20App%20Inventor2%20Tutorials_3.png)  
 
 ---
 
