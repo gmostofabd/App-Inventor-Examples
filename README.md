@@ -9,7 +9,8 @@ App Inventor is an open-source programming environment which allows beginner cod
 
 It is composed of a “designer” section where you visually design your app layout and a “blocks” sections where you include the code to run your app.
 
-To use this program, you just need a gmail address. Then click here and click on “Create apps!” on the top to log in.
+
+**To use this program, you just need a Gmail address. Then click [here](#) and click on “Create apps!” on the top to log in.**
 
 
 ## **🔑 Keywords**
@@ -20,6 +21,12 @@ To use this program, you just need a gmail address. Then click here and click on
 
 
 
+
+<div style="text-align: left;">
+    <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/1c482726f0a1e4c6417fda04f782cd2010c6337e/assets/images/AppInventopr_Banner_1b.png" alt="Descriptive Alt Text" style="max-width: 90%; height: auto;">
+    <p style="font-weight: bold;">Image Caption Here</p>
+    <p style="font-size: 0.9em; color: gray;">This is a short description of the image, providing additional context or information.</p>
+</div>
 
 
 
@@ -45,7 +52,7 @@ To use this program, you just need a gmail address. Then click here and click on
 
 ---
 
-## **Introduction**
+## **Introduction to App Inventor**
 
 **[MIT App Inventor](http://appinventor.mit.edu/)** is an innovative, drag-and-drop visual programming platform that empowers users to create fully functional **Android apps**. It simplifies app development by utilizing **block-based coding**, making it accessible for individuals without prior programming experience. With App Inventor, you can quickly design apps that interface with real-world hardware like **sensors**, **IoT devices**, and **Bluetooth** components.
 
@@ -58,7 +65,7 @@ To use this program, you just need a gmail address. Then click here and click on
 
 
 
-## **✨ Features**
+## **✨ App Inventor Features**
 
 - 🛠️ **No coding required** – Simplified drag-and-drop interface  
 - 📱 **Mobile hardware integration** – Use device **sensors**, **Bluetooth**, **GPS**, etc.  
@@ -70,6 +77,43 @@ To use this program, you just need a gmail address. Then click here and click on
 *Design user interfaces quickly using App Inventor's drag-and-drop system.*
 
 ---
+
+
+##  **History of MIT App Inventor.**
+>  -  MIT App Inventor has its roots in the collaborative efforts between Google and the Massachusetts Institute of Technology (MIT), with a goal of democratizing app development and making programming accessible to everyone, especially beginners. The journey of App Inventor has been shaped by several key milestones:
+
+###  Early Development at Google (2009-2011)
+>  -  Google Labs first introduced App Inventor in 2009 under the leadership of Hal Abelson, a renowned computer scientist and professor at MIT. Abelson was on sabbatical from MIT and aimed to create a platform that simplified app development, especially for those without a background in coding.
+Google App Inventor was launched in 2010 as an experimental tool, part of Google’s effort to provide a visual programming environment for Android app development. The platform was initially available to a limited audience but quickly gained popularity due to its simplicity and effectiveness.
+
+###  Transition to MIT (2011-2012)
+>  -  In 2011, Google announced it would no longer maintain App Inventor, but it donated the source code to MIT. Recognizing its educational potential, MIT took over the project and established the MIT Center for Mobile Learning, under its Media Lab, to continue its development.
+In 2012, MIT launched the MIT App Inventor 2 platform. It was a more advanced, cloud-based version of the original App Inventor, allowing users to create, save, and share their apps online.
+
+###  Advancements and Growth (2013-present)
+>  -  After its release as MIT App Inventor 2, the platform continued to evolve, gaining support for features such as real-time testing, data storage, and connectivity to external devices like sensors, cameras, and other hardware.
+App Inventor has become widely used in schools, universities, and educational programs around the world, teaching students the fundamentals of coding, app design, and problem-solving.
+
+By 2017, the platform had over 6 million users from 195 countries and had seen the creation of over 23 million apps. It has become a go-to tool for introducing programming in educational settings, particularly for younger students.
+
+###  Impact on Education
+>  -  App Inventor has been pivotal in promoting computational thinking and encouraging more students, including those from traditionally underrepresented groups in technology, to engage in STEM education. It is especially popular in middle and high schools, where it is used to teach students the basics of programming through real-world projects.
+
+###  Present and Future
+>  -  Today, App Inventor continues to expand, supporting advanced features like IoT (Internet of Things) development, artificial intelligence (AI) integrations, and cloud services. MIT remains committed to making app development an accessible, creative, and enjoyable process for learners of all ages.
+
+
+---
+
+
+
+
+
+
+
+
+
+
 
 ## **🛠️ How to Use App Inventor**
 
