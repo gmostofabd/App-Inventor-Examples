@@ -9,7 +9,8 @@ App Inventor is an open-source programming environment which allows beginner cod
 
 It is composed of a “designer” section where you visually design your app layout and a “blocks” sections where you include the code to run your app.
 
-To use this program, you just need a gmail address. Then click here and click on “Create apps!” on the top to log in.
+
+**To use this program, you just need a Gmail address. Then click [here](#) and click on “Create apps!” on the top to log in.**
 
 
 ## **🔑 Keywords**
