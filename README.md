@@ -1,7 +1,24 @@
 # 🌟 App-Inventor-Examples 🌟
 This repository showcases **example projects** built with **[MIT App Inventor](http://appinventor.mit.edu/)**, covering key concepts like **IoT**, **hardware interfacing**, **GPS tracking**, and **real-time data handling**. These examples are perfect for **beginners** and **educators** seeking to explore mobile app development and **no-code** programming.
 
-![MIT App Inventor Banner](https://github.com/gmostofabd/App-Inventor-Examples/blob/895ed89efe173b3dbe135ecfb84592c3b2a01591/assets/images/MIT%20App%20Inventor2%20Tutorials_3.png)  
+
+
+<div style="text-align: left;">
+    <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/14629247acd40bf89f67161cd16eccd3c9428291/assets/images/ai97y.jpg" alt="Descriptive Alt Text" style="max-width: 60%; height: auto;">
+    <p style="font-weight: bold;">App Inventor Tutorials</p>
+    <p style="font-size: 0.9em; color: gray;">This is a short description of the image, providing additional context or information.</p>
+</div>
+
+---
+
+<p align="center">
+
+<a href="https://gmostofabd.github.io/8051-7Segment/">
+        <img src="https://raw.githubusercontent.com/gmostofabd/App-Inventor-Examples/main/assets/images/ai97y.jpg?raw=true" alt="App Inventor Banner - 1" style="max-width: 100%; height: auto;">
+      </a>
+      <p><strong>Create your App using MIT aI2</strong></p>
+      <p>Discover how to create and custom android apps.</p>
+</p>
 
 ---
 
@@ -11,6 +28,10 @@ It is composed of a “designer” section where you visually design your app la
 
 
 **To use this program, you just need a Gmail address. Then click [here](#) and click on “Create apps!” on the top to log in.**
+
+
+
+---
 
 
 ## **🔑 Keywords**
@@ -23,7 +44,7 @@ It is composed of a “designer” section where you visually design your app la
 
 
 <div style="text-align: left;">
-    <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/1c482726f0a1e4c6417fda04f782cd2010c6337e/assets/images/AppInventopr_Banner_1b.png" alt="Descriptive Alt Text" style="max-width: 90%; height: auto;">
+    <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/14629247acd40bf89f67161cd16eccd3c9428291/assets/images/ai234.png" alt="Descriptive Alt Text" style="max-width: 70%; height: auto;">
     <p style="font-weight: bold;">Image Caption Here</p>
     <p style="font-size: 0.9em; color: gray;">This is a short description of the image, providing additional context or information.</p>
 </div>
@@ -31,10 +52,7 @@ It is composed of a “designer” section where you visually design your app la
 
 
 
-
-
-
-
+---
 
 
 ## **🚀 Table of Contents**
@@ -107,14 +125,6 @@ By 2017, the platform had over 6 million users from 195 countries and had seen t
 
 
 
-
-
-
-
-
-
-
-
 ## **🛠️ How to Use App Inventor**
 
 Follow this step-by-step guide to get started with **MIT App Inventor** and begin building your own apps!
@@ -175,10 +185,6 @@ Explore these real-world projects to see how you can integrate hardware with **A
 ---
 
 
-
-
-
-
 ## **📚 Tutorial References**
 
 - [Getting Started with MIT App Inventor](https://appinventor.mit.edu/explore/ai2/tutorials/) *A comprehensive guide to help you begin your journey with MIT App Inventor.*
@@ -206,3 +212,20 @@ Explore these real-world projects to see how you can integrate hardware with **A
 [MIT App Inventor](http://appinventor.mit.edu/), [Mobile App Development](https://en.wikipedia.org/wiki/Mobile_app), [IoT](https://en.wikipedia.org/wiki/Internet_of_things), [Hardware Interfacing](https://en.wikipedia.org/wiki/Embedded_system), [Sensors](https://en.wikipedia.org/wiki/Sensor), [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth), [GPS Tracking](https://en.wikipedia.org/wiki/Global_Positioning_System), [Real-Time Data](https://en.wikipedia.org/wiki/Real-time_computing), [Arduino Integration](https://www.arduino.cc/), [Robotics](https://en.wikipedia.org/wiki/Robotics), [No-Code Development](https://en.wikipedia.org/wiki/No-code_development_platform), [Cloud Integration](https://en.wikipedia.org/wiki/Cloud_computing)
 
 
+p
+
+## ⚗️ **Experiments Gallery**
+
+
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/ComponentsGuide/blob/550718e42440f091d62d44cf5ca3d69c11f7eb3b/assets/images/Components%20Guide%20(Basic%20Parts).png">  Basic Components |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/ComponentsGuide/blob/550718e42440f091d62d44cf5ca3d69c11f7eb3b/assets/images/Components%20Guide%20(Breadboards).png"> Breadboards | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/ComponentsGuide/blob/550718e42440f091d62d44cf5ca3d69c11f7eb3b/assets/images/Components%20Guide%20(Manufacturers).png?raw=true"> Popular Manufacturers|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/ComponentsGuide/blob/550718e42440f091d62d44cf5ca3d69c11f7eb3b/assets/images/Components%20Guide%20(Packagings).png?raw=true">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/ComponentsGuide/blob/550718e42440f091d62d44cf5ca3d69c11f7eb3b/assets/images/Components%20Guide%20(Transistor%20Packagings).png?raw=true">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/ComponentsGuide/blob/550718e42440f091d62d44cf5ca3d69c11f7eb3b/assets/images/Components%20Guide%20(Basic%20Parts_1).png?raw=true">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation/blob/8343a9874e5530a658bd2e023b0df2a4dee0359f/8051%20Stepper%20Motors/8051%20Stepper%20Motor.png?raw=true">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/ComponentsGuide/blob/550718e42440f091d62d44cf5ca3d69c11f7eb3b/assets/images/Electronics%20Components%20Types.jpg?raw=true">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/ComponentsGuide/blob/550718e42440f091d62d44cf5ca3d69c11f7eb3b/assets/images/Electronics%20Formulas-Ohm's%20Law.jpg?raw=true">|
+
+
+<br/>
+<br/>
+
+---
