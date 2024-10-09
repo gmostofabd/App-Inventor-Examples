@@ -14,7 +14,7 @@ This repository showcases **example projects** built with **[MIT App Inventor](h
 <p align="center">
 
 <a href="https://gmostofabd.github.io/8051-7Segment/">
-        <img src="https://raw.githubusercontent.com/gmostofabd/App-Inventor-Examples/main/assets/images/ai97y.jpg?raw=true" alt="App Inventor Banner - 1" style="max-width: 100%; height: auto;">
+        <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/1a5aaf2106edebd130367bbff1f80f8735b8b31d/assets/images/AppInventopr_Banner_1b.jpg?raw=true" alt="App Inventor Banner - 1" style="max-width: 50%; height: auto;">
       </a>
       <p><strong>Create your App using MIT aI2</strong></p>
       <p>Discover how to create and custom android apps.</p>
