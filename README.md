@@ -23,7 +23,7 @@ It is composed of a “designer” section where you visually design your app la
 
 
 <div style="text-align: left;">
-    <img src="https://example.com/your-image.jpg" alt="Descriptive Alt Text" style="max-width: 90%; height: auto;">
+    <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/1c482726f0a1e4c6417fda04f782cd2010c6337e/assets/images/AppInventopr_Banner_1b.png" alt="Descriptive Alt Text" style="max-width: 90%; height: auto;">
     <p style="font-weight: bold;">Image Caption Here</p>
     <p style="font-size: 0.9em; color: gray;">This is a short description of the image, providing additional context or information.</p>
 </div>
