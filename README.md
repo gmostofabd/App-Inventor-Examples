@@ -10,6 +10,47 @@ This repository showcases **example projects** built with **[MIT App Inventor](h
 App Inventor platform is developed by the Massachusetts Institute of Technology (MIT). It is composed of a **DESIGNER** section where you visually design your app layout and a **BLOCKS** sections where you include the code to run your app.
 
 
+---
+
+## **✨ App Inventor Features**
+
+| 🌟 **Feature**                     | 📋 **Description**                                                                                   |
+|-------------------------------------|-------------------------------------------------------------------------------------------------------|
+| 🛠️ **_User-Friendly Interface:_**   | Visual learning with **immediate feedback**, allowing for a hands-on experience.                        |
+| 📱 **_Creativity & Problem-Solving:_** | Engages users in **creative projects** while fostering **logical thinking** and innovation.             |
+| 🌐 **_Real-World Applications:_**   | Develop **practical skills** that create a solid **foundation for future learning** in real-world tasks. |
+| 📡 **_Real-time Data Handling:_**   | Build apps with **cloud storage** and live updates for **seamless real-time experiences**.               |
+
+---
+
+
+
+## **✨ You Will Need:**
+
+<div style="display: flex; justify-content: center; width: 100%;">
+  <table style="background-color:#e6f7ff; width:80%; border-collapse:collapse; max-width: 100%;">
+    <thead>
+      <tr>
+        <th style="padding: 10px; text-align: left;">🖥️ <strong>Item</strong></th>
+        <th style="padding: 10px; text-align: left;">📋 <strong>Description</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 10px; background-color:#ffffff;">💻 <strong>A Mac or Windows computer</strong></td>
+        <td style="padding: 10px; background-color:#ffffff;">Ensure your system meets the necessary <strong>system requirements</strong>.</td>
+      </tr>
+      <tr>
+        <td style="padding: 10px; background-color:#f9f9f9;">🌐 <strong>A Wi-Fi connection</strong></td>
+        <td style="padding: 10px; background-color:#f9f9f9;">Stable <strong>internet connection</strong> is required to download tools and run apps smoothly.</td>
+      </tr>
+      <tr>
+        <td style="padding: 10px; background-color:#ffffff;">📱 <strong>A phone or tablet</strong></td>
+        <td style="padding: 10px; background-color:#ffffff;">You will build a <strong>mobile app</strong>, and it's fun to test it <strong>live</strong> on your device while you build (setup required).</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ---
 
@@ -17,28 +58,11 @@ App Inventor platform is developed by the Massachusetts Institute of Technology 
 
 
 
-## **✨ Main Features**
-
-- 🛠️ **User-Friendly Interface:** – Visual Learning and Immediate Feedback.
-- 📱 **Encourages Creativity and Problem-Solving:** – Creative Projects: and Logical Thinking:.  
-- 🌐 **Real-World Applications:** – Practical Skills: and Foundation for Future Learning: 
-- 📡 **Real-time data handling** – Build apps with cloud storage and live updates  
 
 
 
 
-##  You will need:
 
-A Mac or Windows computer (see system requirements)
-A Wi-Fi connection
-You will make a mobile app, so it's fun to see it run on a phone or tablet while you build the app (and after!). Some setup is required to run your apps.
-
-
-**To use this program, you just need a Gmail address. Then click [here](#) and click on “Create apps!” on the top to log in.**
-
-
-
----
 
 
 ## **🔑 Keywords**
