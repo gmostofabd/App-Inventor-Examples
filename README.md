@@ -14,7 +14,6 @@ App Inventor platform is developed by the Massachusetts Institute of Technology 
 
 </br>
 
-
 ## **✨ App Inventor Features**
 
 | 🌟 **Feature**                     | 📋 **Description**                                                                                   |
@@ -26,10 +25,7 @@ App Inventor platform is developed by the Massachusetts Institute of Technology 
 
 ---
 
-
 </br>
-
-
 
 ## **✨ You Will Need:**
 
@@ -60,19 +56,7 @@ App Inventor platform is developed by the Massachusetts Institute of Technology 
 
 ---
 
-
-
-
-
-
-
 </br>
-
-
-
-
-
-
 
 ## **🔑 Keywords**
 
@@ -394,3 +378,4 @@ More App Inventor Tutorials for Beginners
 <br/>
 
 ---
+
