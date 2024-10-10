@@ -3,13 +3,24 @@ This repository showcases **example projects** built with **[MIT App Inventor](h
 
 
 
-<div style="text-align: left;">
-    <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/14629247acd40bf89f67161cd16eccd3c9428291/assets/images/ai97y.jpg" alt="Descriptive Alt Text" style="max-width: 60%; height: auto;">
-    <p style="font-weight: bold;">App Inventor Tutorials</p>
-    <p style="font-size: 0.9em; color: gray;">This is a short description of the image, providing additional context or information.</p>
+
+<div align="center" style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; width: 60%; margin: auto;">
+  <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/14629247acd40bf89f67161cd16eccd3c9428291/assets/images/ai97y.jpg" alt="H-Bridge Circuit Diagram" width="80%" style="border-radius: 8px;">
+  <h3 style="margin-top: 20px;">H-Bridge Circuit Diagram</h3>
+  <p align="justify" style="color: #555; font-size: 1.5em;">
+    This is a short description of the image, providing additional context or information.
+  </p>
 </div>
 
 ---
+
+
+
+
+
+
+
+
 
 <p align="center">
 
