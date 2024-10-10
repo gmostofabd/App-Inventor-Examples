@@ -65,7 +65,7 @@ App Inventor platform is developed by the Massachusetts Institute of Technology 
 </br>
 
 <div align="center" style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; width: 60%; margin: auto;">
-  <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/2906f05d2ecdd52938ff8c44883406cecefe3c24/assets/images/AppInventor_Banner_2a.png" alt="H-Bridge Circuit Diagram" width="70%" style="border-radius: 8px;">
+  <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/2906f05d2ecdd52938ff8c44883406cecefe3c24/assets/images/AppInventor_Banner_2a.png" alt="App Inventor Tutorials" width="70%" style="border-radius: 8px;">
 </div>
 
 ---
@@ -73,8 +73,13 @@ App Inventor platform is developed by the Massachusetts Institute of Technology 
 </br>
 
 
-
 ## 🌟 **Let's Make a Simple Game on MIT App Inventor** 🌟
+
+<div align="center" style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; width: 60%; margin: auto;">
+  <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/3e258c4c82c45422337182ebdd8cab43115cfefe/assets/images/AppInventor_ImageContent_Game1.png" alt="Build your Game App within 5 Minutes" width="70%" style="border-radius: 8px;">
+</div>
+
+---
 
 ### 1. Open a blank project
 1. **Start a New Project:** Create a new blank project.
