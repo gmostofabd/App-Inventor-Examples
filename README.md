@@ -13,6 +13,15 @@ This repository showcases **example projects** built with **[MIT App Inventor](h
 
 
 
+<div align="center" style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; width: 60%; margin: auto;">
+  <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/46e89364046ad68cecf4501236876cfbbfb2da71/assets/images/AppInventor_Banner_6a.png" alt="H-Bridge Circuit Diagram" width="80%" style="border-radius: 8px;">
+  <h3 style="margin-top: 20px;">H-Bridge Circuit Diagram</h3>
+  <p align="justify" style="color: #555; font-size: 1.5em;">
+    This is a short description of the image, providing additional context or information.
+  </p>
+</div>
+
+---
 
 
 
