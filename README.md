@@ -12,6 +12,9 @@ App Inventor platform is developed by the Massachusetts Institute of Technology 
 
 ---
 
+</br>
+
+
 ## **✨ App Inventor Features**
 
 | 🌟 **Feature**                     | 📋 **Description**                                                                                   |
@@ -22,6 +25,9 @@ App Inventor platform is developed by the Massachusetts Institute of Technology 
 | 📡 **_Real-time Data Handling:_**   | Build apps with **cloud storage** and live updates for **seamless real-time experiences**.               |
 
 ---
+
+
+</br>
 
 
 
@@ -60,6 +66,9 @@ App Inventor platform is developed by the Massachusetts Institute of Technology 
 
 
 
+</br>
+
+
 
 
 
@@ -77,6 +86,9 @@ App Inventor platform is developed by the Massachusetts Institute of Technology 
 
 ---
 
+</br>
+
+
 
 ## 🌟 Let's Make a Simple Game on MIT App Inventor 🌟
 
@@ -89,10 +101,13 @@ Also from User Interface drag a Button and call it “ResetButton”. Make its t
 
 ---
 
+</br>
+
+
 2. Add an ImageSprite
 The next thing we need to do is add an ImageSprite from Drawing and Animation to our Canvas. Make sure the image is on the canvas: it will appear nested under MyCanvas in the Components tab. Download the mole image here. The “Enabled” and “Visible” options should be checked, “Width” and “Height” should be “automatic”, and “Speed” should be 0.0.
 
-----
+---
 
 3. Move the mole
 Now let’s switch to the “Blocks” screen so we can add some functionality. We’re going to start with a snippet of code to move the mole. In Procedure, select the block with where you can fill the name and has a “do” action. Change the name to “MoveMole”. The “do” section is where we want to put the blocks for this procedure.
@@ -113,7 +128,7 @@ We’re going to make another Procedure called “UpdateScore”. Before we crea
 To make the MoveMole procedure happen with the timer, we need the “when MoleTimer Timer do” block from MoleTimer. Then inside that we use the “call MoveMole” block from Procedures.
 
 
---=-
+---
 
 6. Update the score
 Now we need the score to update when we tap on the mole. We start with the “when Mole touched x y do” block from Mole. Then we increment the score. First we need the “set” block from Variables and select “global Score” from the dropdown. We attach this to an addition block in Math. We want to add a “get global Score” block from Variables and a number block from Math with the value set at 1. Then we call the UpdateScore and MoveMole procedures.
@@ -125,6 +140,9 @@ Finally we need to implement the functionality of the button. In ResetButton, ge
 
 
 ---
+
+</br>
+
 
 
 Advanced Tips and Enhancements
@@ -151,6 +169,9 @@ Power-ups and bonuses add an extra layer of strategy and excitement to the game.
 
 How to Do It: Create additional ImageSprites for power-ups and use conditional statements to check if the player has collected a power-up and apply its effects.
 
+---
+
+</br>
 
 
 
@@ -172,6 +193,9 @@ How to Do It: Create additional ImageSprites for power-ups and use conditional s
 
 ---
 
+</br>
+
+
 ## **Introduction to App Inventor**
 
 **[MIT App Inventor](http://appinventor.mit.edu/)** is an innovative, drag-and-drop visual programming platform that empowers users to create fully functional **Android apps**. It simplifies app development by utilizing **block-based coding**, making it accessible for individuals without prior programming experience. With App Inventor, you can quickly design apps that interface with real-world hardware like **sensors**, **IoT devices**, and **Bluetooth** components.
@@ -187,6 +211,9 @@ App Inventor is an online tool, meaning you can create apps for phones or tablet
 
 ---
 
+</br>
+
+
 
 
 ## **✨ App Inventor Features**
@@ -201,6 +228,9 @@ App Inventor is an online tool, meaning you can create apps for phones or tablet
 *Design user interfaces quickly using App Inventor's drag-and-drop system.*
 
 ---
+
+
+</br>
 
 
 ##  **History of MIT App Inventor.**
@@ -229,14 +259,21 @@ By 2017, the platform had over 6 million users from 195 countries and had seen t
 
 ---
 
+</br>
+
+
 APP INVENTOR CONTROLS
 DESIGNER
 The first section called Palette includes all the objects and layout options you can choose and drag onto the screen, that is media, buttons, text labels, images, timer, etc.
 The central is the Viewer, that is the visual rendering of your phone screen. Close to the screen, you can see the Components window, where you will see all the objects you added to your screen. In the beginning, you will see just “Screen 1”.
 The last section on the left, Properties, regards all the options you can choose to change the attributes of the object you have included in your screen. For example, here are the options for changing your Screen1 attributes like background colour, background image, title, alignment.
 
+---
 
 You can download the project here.
+
+
+</br>
 
 
 ## **🛠️ How to Use App Inventor**
@@ -280,6 +317,9 @@ Follow this step-by-step guide to get started with **MIT App Inventor** and begi
 
 ---
 
+</br>
+
+
 ## **🧪 Project Examples**
 
 Explore these real-world projects to see how you can integrate hardware with **App Inventor**:
@@ -297,6 +337,9 @@ Explore these real-world projects to see how you can integrate hardware with **A
 *IoT projects are a great way to learn hardware interfacing using App Inventor.*
 
 ---
+
+</br>
+
 
 
 ## **📚 Tutorial References**
@@ -321,12 +364,20 @@ Explore these real-world projects to see how you can integrate hardware with **A
 
 ---
 
+</br>
+
+
 ## **📌 Tags**
 
 [MIT App Inventor](http://appinventor.mit.edu/), [Mobile App Development](https://en.wikipedia.org/wiki/Mobile_app), [IoT](https://en.wikipedia.org/wiki/Internet_of_things), [Hardware Interfacing](https://en.wikipedia.org/wiki/Embedded_system), [Sensors](https://en.wikipedia.org/wiki/Sensor), [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth), [GPS Tracking](https://en.wikipedia.org/wiki/Global_Positioning_System), [Real-Time Data](https://en.wikipedia.org/wiki/Real-time_computing), [Arduino Integration](https://www.arduino.cc/), [Robotics](https://en.wikipedia.org/wiki/Robotics), [No-Code Development](https://en.wikipedia.org/wiki/No-code_development_platform), [Cloud Integration](https://en.wikipedia.org/wiki/Cloud_computing)
 
 
-p
+---
+
+
+</br>
+
+
 
 ## ⚗️ **Free Examples Gallery**
 
@@ -334,9 +385,9 @@ More App Inventor Tutorials for Beginners
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/ComponentsGuide/blob/550718e42440f091d62d44cf5ca3d69c11f7eb3b/assets/images/Components%20Guide%20(Basic%20Parts).png">  Basic Components |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/ComponentsGuide/blob/550718e42440f091d62d44cf5ca3d69c11f7eb3b/assets/images/Components%20Guide%20(Breadboards).png"> Breadboards | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/ComponentsGuide/blob/550718e42440f091d62d44cf5ca3d69c11f7eb3b/assets/images/Components%20Guide%20(Manufacturers).png?raw=true"> Popular Manufacturers|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/ComponentsGuide/blob/550718e42440f091d62d44cf5ca3d69c11f7eb3b/assets/images/Components%20Guide%20(Packagings).png?raw=true">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/ComponentsGuide/blob/550718e42440f091d62d44cf5ca3d69c11f7eb3b/assets/images/Components%20Guide%20(Transistor%20Packagings).png?raw=true">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/ComponentsGuide/blob/550718e42440f091d62d44cf5ca3d69c11f7eb3b/assets/images/Components%20Guide%20(Basic%20Parts_1).png?raw=true">|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation/blob/8343a9874e5530a658bd2e023b0df2a4dee0359f/8051%20Stepper%20Motors/8051%20Stepper%20Motor.png?raw=true">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/ComponentsGuide/blob/550718e42440f091d62d44cf5ca3d69c11f7eb3b/assets/images/Electronics%20Components%20Types.jpg?raw=true">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/ComponentsGuide/blob/550718e42440f091d62d44cf5ca3d69c11f7eb3b/assets/images/Electronics%20Formulas-Ohm's%20Law.jpg?raw=true">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/App-Inventor-Examples/blob/bc6ce03a1b035361ec5d01bd53047b61538aa0b6/assets/images/AppInventor_ImageContent_Disgner.png">  Designers Interface |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/App-Inventor-Examples/blob/bc6ce03a1b035361ec5d01bd53047b61538aa0b6/assets/images/AppInventor_ImageContent_QRcode.png"> App and QR Code | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/App-Inventor-Examples/blob/bc6ce03a1b035361ec5d01bd53047b61538aa0b6/assets/images/AppInventor_ImageContent_Windows.png?raw=true"> Pallets, View and Properties |
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/App-Inventor-Examples/blob/bc6ce03a1b035361ec5d01bd53047b61538aa0b6/assets/images/AppInventor_ImageContent_des2.png?raw=true"> Online Emulator  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/App-Inventor-Examples/blob/bc6ce03a1b035361ec5d01bd53047b61538aa0b6/assets/images/AppInventor_ImageContent_esi1.png?raw=true"> Tutorial image |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/App-Inventor-Examples/blob/bc6ce03a1b035361ec5d01bd53047b61538aa0b6/assets/images/AppInventor_ImageContent_intwer.png?raw=true"> Starting Screen |
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/App-Inventor-Examples/blob/bc6ce03a1b035361ec5d01bd53047b61538aa0b6/assets/images/AppInventor_Banner_6b.png?raw=true"> Tutorial image 1  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/App-Inventor-Examples/blob/bc6ce03a1b035361ec5d01bd53047b61538aa0b6/assets/images/MIT%20App%20Inventor2%20Tutorials_1.jpg?raw=true"> Tutorial image 2 | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/App-Inventor-Examples/blob/bc6ce03a1b035361ec5d01bd53047b61538aa0b6/assets/images/MIT%20App%20Inventor2%20Tutorials_3.png?raw=true">Tutorial image 3 |
 
 
 <br/>
