@@ -62,10 +62,10 @@ App Inventor platform is developed by the Massachusetts Institute of Technology 
 
 [MIT App Inventor](http://appinventor.mit.edu/), [IoT](https://en.wikipedia.org/wiki/Internet_of_things), [Mobile App](https://en.wikipedia.org/wiki/Mobile_app), [Android App Development](https://en.wikipedia.org/wiki/Mobile_app), [GPS](https://en.wikipedia.org/wiki/Global_Positioning_System), [Sensors](https://en.wikipedia.org/wiki/Sensor), [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth), [Arduino](https://www.arduino.cc/), [IoT Applications](https://en.wikipedia.org/wiki/Internet_of_things), [No-Code](https://en.wikipedia.org/wiki/No-code_development_platform), [STEAM Education](https://en.wikipedia.org/wiki/STEAM), [Educational Tools](https://en.wikipedia.org/wiki/Educational_technology), [Block-Based Coding](https://en.wikipedia.org/wiki/Visual_programming_language), [Cloud Services](https://en.wikipedia.org/wiki/Cloud_computing)
 
-
+</br>
 
 <div align="center" style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; width: 60%; margin: auto;">
-  <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/2906f05d2ecdd52938ff8c44883406cecefe3c24/assets/images/AppInventor_Banner_2a.png" alt="H-Bridge Circuit Diagram" width="80%" style="border-radius: 8px;">
+  <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/2906f05d2ecdd52938ff8c44883406cecefe3c24/assets/images/AppInventor_Banner_2a.png" alt="H-Bridge Circuit Diagram" width="70%" style="border-radius: 8px;">
 </div>
 
 ---
@@ -74,86 +74,143 @@ App Inventor platform is developed by the Massachusetts Institute of Technology 
 
 
 
-## 🌟 Let's Make a Simple Game on MIT App Inventor 🌟
+## 🌟 **Let's Make a Simple Game on MIT App Inventor** 🌟
 
-
-1. Open a blank project
-Open a blank project. Drag a Canvas element from the Drawing and Animation section. Rename it to “MyCanvas” and set its dimensions to 300x300. Drag a Label element from User Interface. Call it “ScoreLabel” and set its text to “Score: ---”.
-
-Also from User Interface drag a Button and call it “ResetButton”. Make its text “Reset”. From Sensors drag a Clock element so you can control the interval that the mole jumps around the screen. Call it “MoleTimer”, select “Timer Enabled” and set the TimerInterval to 500.
-
+### 1. Open a blank project
+1. **Start a New Project:** Create a new blank project.
+2. **Add Canvas:**
+   - Go to **Drawing and Animation** and drag a `Canvas` element.
+   - Rename it to **MyCanvas**.
+   - Set its dimensions to `300x300`.
+3. **Add Score Label:**
+   - Drag a **Label** from **User Interface**.
+   - Rename it to **ScoreLabel** and set its text to `Score: ---`.
+4. **Add Reset Button:**
+   - Drag a **Button** from **User Interface**.
+   - Rename it to **ResetButton** and set its text to `Reset`.
+5. **Add Timer:**
+   - From **Sensors**, drag a `Clock` element to the screen.
+   - Rename it to **MoleTimer**.
+   - Enable the `Timer` and set `TimerInterval` to **500** ms.
 
 ---
+
+### 2. Add an ImageSprite
+1. **Add the Mole Image:**
+   - From **Drawing and Animation**, drag an `ImageSprite` to the **MyCanvas** element.
+   - Download and use a **mole image** for the sprite.
+2. **Set Properties:**
+   - Ensure `Enabled` and `Visible` options are checked.
+   - Set `Width` and `Height` to `automatic`.
+   - Set `Speed` to `0.0`.
+
+---
+
+### 3. Move the Mole
+1. **Create MoveMole Procedure:**
+   - Switch to the **Blocks** screen.
+   - From **Procedures**, drag out a `procedure` block and name it **MoveMole**.
+2. **Set Mole X-Position:**
+   - Drag a `set Mole.X` block.
+   - Attach a **multiplication block** from **Math** and use a **random fraction block** for the first value.
+   - For the second value, use a **subtraction block**. 
+     - Left side: `MyCanvas.Width`.
+     - Right side: `Mole.Width`.
+3. **Set Mole Y-Position:**
+   - Repeat the above steps for the Y-position but use `MyCanvas.Height` and `Mole.Height`.
+
+---
+
+### 4. Create UpdateScore Procedure
+1. **Initialize Score Variable:**
+   - In the **Variables** tab, create an `initialize global` block for **score** and set its value to **0**.
+2. **Set Score Label Text:**
+   - Create a new **procedure** named **UpdateScore**.
+   - Use the **set ScoreLabel.Text** block.
+   - Attach a **join block** from **Text**.
+     - First text: `Score: `.
+     - Second text: `global score` from **Variables**.
+
+---
+
+### 5. Trigger MoveMole with Timer
+1. **Use Timer Event:**
+   - Get the `when MoleTimer.Timer` block.
+   - Inside it, call the **MoveMole** procedure.
+
+---
+
+### 6. Update the Score on Mole Touch
+1. **Set Up Mole Touched Event:**
+   - Get the `when Mole.Touched x y` block.
+2. **Increment Score:**
+   - Drag the `set global score` block.
+   - Attach it to a **Math addition block**.
+     - Add `get global score` from **Variables** and `1`.
+3. **Call Procedures:**
+   - After incrementing the score, call the **UpdateScore** and **MoveMole** procedures.
+
+---
+
+### 7. Make the Reset Button Work
+1. **Set Up Reset Button Click Event:**
+   - Get the `when ResetButton.Click` block.
+2. **Reset Score:**
+   - Set `global score` to `0` using a **Math number block**.
+3. **Call UpdateScore:**
+   - Call the **UpdateScore** procedure.
+
+---
+
+**🎮 Congratulations! You've created a simple game using MIT App Inventor!**
 
 </br>
 
 
-2. Add an ImageSprite
-The next thing we need to do is add an ImageSprite from Drawing and Animation to our Canvas. Make sure the image is on the canvas: it will appear nested under MyCanvas in the Components tab. Download the mole image here. The “Enabled” and “Visible” options should be checked, “Width” and “Height” should be “automatic”, and “Speed” should be 0.0.
 
----
+## 🌟 **Advanced Tips and Enhancements** 🌟
 
-3. Move the mole
-Now let’s switch to the “Blocks” screen so we can add some functionality. We’re going to start with a snippet of code to move the mole. In Procedure, select the block with where you can fill the name and has a “do” action. Change the name to “MoveMole”. The “do” section is where we want to put the blocks for this procedure.
-
-Click on Mole and get the “set mole x” block. This locks to a multiplication block from Math. The first factor is the random fraction block, also from Math. This gives a random number between 0 and 1. The first thing we want on the right factor is a subtraction block from Math. The left hand of the subtraction is the “width” block from MyCanvas. The right side is the “width” block from Mole. We’ll repeat this procedure for the y-element of the Mole. In this case, the width should be changed to height.
-
-
----
-
-
-4. Make another Procedure
-We’re going to make another Procedure called “UpdateScore”. Before we create the procedure, we need to make a variable for the score. In the Variables tab, we want an “initialize global” block. We want to attach this to a Math number block with the value 0. In this procedure, we want to set the text of ScoreLabel. From Text, we want a “join” block. The top block is a blank Text block where we can fill in “Score”. Underneath, we want “get” from Variables and change the dropdown to “global score”.
-
----
-
-
-5. Line it up with the timer
-To make the MoveMole procedure happen with the timer, we need the “when MoleTimer Timer do” block from MoleTimer. Then inside that we use the “call MoveMole” block from Procedures.
-
-
----
-
-6. Update the score
-Now we need the score to update when we tap on the mole. We start with the “when Mole touched x y do” block from Mole. Then we increment the score. First we need the “set” block from Variables and select “global Score” from the dropdown. We attach this to an addition block in Math. We want to add a “get global Score” block from Variables and a number block from Math with the value set at 1. Then we call the UpdateScore and MoveMole procedures.
-
----
-
-7. Make the button work
-Finally we need to implement the functionality of the button. In ResetButton, get the “when ResetButton click do” block. From Variables, get the “set global Score” and connect it to a Math block with value 0. After that we “call UpdateScore” from Procedure.
-
-
----
-
-</br>
-
-
-
-Advanced Tips and Enhancements
 Taking your Mole Mash game to the next level can be both fun and rewarding. Here are some advanced tips and enhancements to make your game even more exciting:
 
-1. Save the Game State
+---
 
-Saving the game state allows players to resume their progress the next time they play. This is particularly useful for tracking high scores or other persistent game data.
+### 1. Save the Game State
+**Why:** Saving the game state allows players to resume their progress the next time they play. This is particularly useful for tracking high scores or other persistent game data.
 
-How to Do It: Use TinyDB, a database component in MIT App Inventor, to save and retrieve the score.
-2. Add Sound Effects and Music
-
-Sound effects and music make the game more immersive and engaging.
-
-How to Do It: Use the Sound component in MIT App Inventor to add sound effects and background music.
-3. Create Interactive Elements
-
-Interactive elements make the game more interactive and fun to play.
-
-How to Do It: Add buttons or interactive objects that players can click to perform actions, such as starting a new game, pausing, or accessing a help menu.
-4. Implement Power-Ups and Bonuses
-
-Power-ups and bonuses add an extra layer of strategy and excitement to the game.
-
-How to Do It: Create additional ImageSprites for power-ups and use conditional statements to check if the player has collected a power-up and apply its effects.
+**How to Do It:**  
+- Use **TinyDB**, a database component in MIT App Inventor, to save and retrieve the score.
 
 ---
+
+### 2. Add Sound Effects and Music
+**Why:** Sound effects and music make the game more immersive and engaging.
+
+**How to Do It:**  
+- Use the **Sound** component in MIT App Inventor to add sound effects and background music.
+
+---
+
+### 3. Create Interactive Elements
+**Why:** Interactive elements enhance gameplay and make it more enjoyable.
+
+**How to Do It:**  
+- Add buttons or interactive objects that players can click to perform actions, such as:
+  - Starting a new game
+  - Pausing the game
+  - Accessing a help menu
+
+---
+
+### 4. Implement Power-Ups and Bonuses
+**Why:** Power-ups and bonuses add an extra layer of strategy and excitement to the game.
+
+**How to Do It:**  
+- Create additional **ImageSprites** for power-ups.
+- Use **conditional statements** to check if the player has collected a power-up and apply its effects.
+
+---
+
+**🚀 With these advanced tips, your Mole Mash game will be more engaging and fun! Enjoy enhancing your game!** 
 
 </br>
 
