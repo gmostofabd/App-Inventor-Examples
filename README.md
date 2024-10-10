@@ -22,16 +22,8 @@ This repository showcases **example projects** built with **[MIT App Inventor](h
 
 
 
-<p align="center">
 
-<a href="https://gmostofabd.github.io/8051-7Segment/">
-        <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/1a5aaf2106edebd130367bbff1f80f8735b8b31d/assets/images/AppInventopr_Banner_1b.jpg?raw=true" alt="App Inventor Banner - 1" style="max-width: 50%; height: auto;">
-      </a>
-      <p><strong>Create your App using MIT aI2</strong></p>
-      <p>Discover how to create and custom android apps.</p>
-</p>
 
----
 
 App Inventor is an open-source programming environment which allows beginner coders to build their own fully functional apps for Android Operating System.
 
@@ -51,19 +43,17 @@ It is composed of a “designer” section where you visually design your app la
 
 
 
-
-
-
-<div style="text-align: left;">
-    <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/14629247acd40bf89f67161cd16eccd3c9428291/assets/images/ai234.png" alt="Descriptive Alt Text" style="max-width: 70%; height: auto;">
-    <p style="font-weight: bold;">Image Caption Here</p>
-    <p style="font-size: 0.9em; color: gray;">This is a short description of the image, providing additional context or information.</p>
+<div align="center" style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; width: 60%; margin: auto;">
+  <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/14629247acd40bf89f67161cd16eccd3c9428291/assets/images/ai234.png" alt="H-Bridge Circuit Diagram" width="80%" style="border-radius: 8px;">
+  <h3 style="margin-top: 20px;">H-Bridge Circuit Diagram</h3>
+  <p align="justify" style="color: #555; font-size: 1.5em;">
+    This is a short description of the image, providing additional context or information.
+  </p>
 </div>
 
-
-
-
 ---
+
+
 
 
 ## **🚀 Table of Contents**
