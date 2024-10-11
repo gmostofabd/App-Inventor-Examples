@@ -39,7 +39,7 @@ App Inventor platform is developed by the Massachusetts Institute of Technology 
       </div>
     </td>
     <td style="width: 60%; vertical-align: top;">
-      <strong>Tools and Resources:</strong>
+      <h3><strong>Tools and Resources you will need for the total processes:</strong></h3>
       <ul style="list-style-type: disc; padding-left: 20px; font-size: 14px;">
         <li><strong style="color: #2E8B57;">💻 A Mac or Windows computer:</strong> The main environment for building your apps.</li>
         <li><strong style="color: #2E8B57;">📱 Smartphone or Emulator:</strong> The device where your apps will be installed and perform.</li>
