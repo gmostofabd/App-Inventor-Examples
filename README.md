@@ -8,30 +8,35 @@ This repository showcases **example projects** built with **[MIT App Inventor](h
 
 </br>
 
-
-<div align="center" style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; width: 50%; margin: auto;">
-  <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/5555f50582d89140fcc17434099b3ca2bc245d9e/assets/images/App%20Inventor%20Tutorial%20Banner_1c.gif" alt="Full Bridge Inverter Circuit Diagram" width="60%" style="border-radius: 8px;">
+<div align="center" style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; width: 80%; margin: auto;">
+  <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/5555f50582d89140fcc17434099b3ca2bc245d9e/assets/images/App%20Inventor%20Tutorial%20Banner_1c.gif" alt="Full Bridge Inverter Circuit Diagram" width="80%" style="border-radius: 8px;">
   
-<h3 style="margin-top: 20px;"> MIT App Inventor is a great tool to introduce beginners to Android app programming. It is an open-source, cloud-based programming environment which allows you to make your own mobile apps using a Blocks-based Programming Language. </h3>
-  <p align="justify" style="background-color: #f9f9f9; color: black; padding: 10px; border-radius: 8px; margin-bottom: 20px;"> 
- 
-You access App Inventor using a web browser (Chrome, Firefox, Safari). With these beginner-friendly tutorials, you will learn the basics of programming apps for Android and iOS phones and tablets.
-
-</p>
-
-<p align="justify" style="background-color: #f9f9f9; color: black; padding: 10px; border-radius: 8px; margin-bottom: 20px;">
-  
-App Inventor platform is developed by the Massachusetts Institute of Technology (MIT). It is composed of a **DESIGNER** section where you visually design your app layout and a **BLOCKS** sections where you include the code to run your app.
-
-</p>
-
 </div>
 
+</br>
+
+<div style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; width: 50%; margin: auto; text-align: center;">
+ 
+  <h3 style="margin-top: 20px;">    
+    MIT App Inventor is a great tool to introduce beginners to Android app programming. It is an open-source, cloud-based programming environment that allows you to make your own mobile apps using a Blocks-based Programming Language.
+    
+  </h3>
+
+  <p style="background-color: #f9f9f9; color: black; padding: 10px; border-radius: 8px; margin-bottom: 20px; text-align: justify;">    
+    You access App Inventor using a web browser (Chrome, Firefox, Safari). With these beginner-friendly tutorials, you will learn the basics of programming apps for Android and iOS phones and tablets.
+    
+  </p>
+
+  <p style="background-color: #f9f9f9; color: black; padding: 10px; border-radius: 8px; margin-bottom: 20px; text-align: justify;">    
+    The App Inventor platform is developed by the Massachusetts Institute of Technology (MIT). It is composed of a <strong>DESIGNER</strong> section where you visually design your app layout and a <strong>BLOCKS</strong> section where you include the code to run your app.
+    
+  </p>
+  
+</div>
+
+</br>
+
 ---
-
-
-
-
 
 </br>
 
