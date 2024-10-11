@@ -1,8 +1,8 @@
 # 🌟 App Inventor Examples 🌟
 This repository showcases **example projects** built with **[MIT App Inventor](http://appinventor.mit.edu/)**, covering key concepts like **IoT**, **hardware interfacing**, **GPS tracking**, and **real-time data handling**. These examples are perfect for **beginners** and **educators** seeking to explore mobile app development and **no-code** programming.
 
-<div align="center" style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; width: 60%; margin: auto;">
-  <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/cf0e72722d9d3d7a43eaf9ab442b390c0cd3a9df/assets/images/App%20Inventor%20Tutorial%20Banner_1B.gif" alt="H-Bridge Circuit Diagram" width="70%" style="border-radius: 8px;">
+<div align="center" style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; width: 90%; margin: auto;">
+  <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/5555f50582d89140fcc17434099b3ca2bc245d9e/assets/images/App%20Inventor%20Tutorial%20Banner_1c.gif" alt="H-Bridge Circuit Diagram" width="80%" style="border-radius: 8px;">
 </div>
 
 **MIT App Inventor** is a great tool to introduce beginners to **Android** app programming. It is an **open-source**, **cloud-based** programming environment which allows you to make your own **mobile apps**n using a **blocks-based programming language**. You access App Inventor using a web browser (Chrome, Firefox, Safari). With these beginner-friendly tutorials, you will learn the basics of programming apps for Android and iOS phones and tablets.
