@@ -36,7 +36,8 @@ This repository showcases **example projects** built with **[MIT App Inventor](h
 
 </br>
 
----
+<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
+
 
 </br>
 
@@ -79,7 +80,8 @@ This repository showcases **example projects** built with **[MIT App Inventor](h
 
 </br>
 
----
+<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
+
 
 </br>
 
@@ -93,18 +95,88 @@ This repository showcases **example projects** built with **[MIT App Inventor](h
   <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/2906f05d2ecdd52938ff8c44883406cecefe3c24/assets/images/AppInventor_Banner_2a.png" alt="App Inventor Tutorials" width="70%" style="border-radius: 8px;">
 </div>
 
----
+<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
 
+
+</br>
+
+</br>
+</br>
+
+
+
+<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
+
+
+## **🛠️ How to Use App Inventor**
+
+Follow this step-by-step guide to get started with **MIT App Inventor** and begin building your own apps!
+
+### **Step 1: Set Up MIT App Inventor**
+1. Visit the official website: [**MIT App Inventor**](http://appinventor.mit.edu/).
+2. Click on **Create Apps!** to open the App Inventor development environment.
+3. Log in using your **Google account** to access the app creation dashboard.
+
+### **Step 2: Create a New Project**
+1. On the main dashboard, click **Start New Project**.
+2. Enter a project name, like `MyFirstApp`, and click **OK**.
+3. You’ll be taken to the project workspace, where you can design your app.
+
+### **Step 3: Design the User Interface (UI)**
+1. **In the Designer tab**, drag and drop components (e.g., buttons, text boxes, images) from the **Palette** on the left into the **Viewer**.
+2. Customize each component’s properties (e.g., text, color, size) using the **Properties panel** on the right.
+
+### **Step 4: Add Functionality with Blocks**
+1. Switch to the **Blocks** tab to create the logic behind your app.
+2. Drag blocks like `When Button1.Click` from the component list and add **logic** or **control blocks** to perform actions such as changing text, displaying notifications, or interacting with hardware.
+
+   ![Blocks Example](https://appinventor.mit.edu/assets/images/blocks.png)  
+   *Block-based coding interface*  
+
+### **Step 5: Connect Your Device**
+1. **Live Testing**: Test your app on a real device using the **MIT AI2 Companion** app:
+   - Download the [**MIT AI2 Companion**](https://play.google.com/store/apps/details?id=edu.mit.appinventor.aicompanion3) from the Play Store.
+   - Open the app, and in App Inventor, go to **Connect** → **AI Companion**.
+   - Scan the displayed **QR code** or enter the code to sync your device for live testing.
+
+2. **Emulator**: Alternatively, use the built-in emulator by clicking **Connect** → **Emulator**.
+
+### **Step 6: Build and Test the App**
+1. To export your app as an installable APK, click **Build** → **App (save .apk to my computer)**.
+2. Once the APK is generated, download and install it on any Android device.
+
+> 🎉 **Tip**: You can use **AI-powered cloud services** like **Firebase** for **real-time data** synchronization.
+
+<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
+
+
+</br>
+
+</br>
+
+<div align="center" style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; width: 80%; margin: auto;">
+  <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/212146bd0f9f8f01bb780f3594727913e72b6004/assets/images/AI2_makeProject.jpg" alt="Get Started Project:" width="50%" style="border-radius: 8px;">
+  
+</div>
+
+</br>
+</br>
+
+</br>
+</br>
+
+</br>
 </br>
 
 
 ## 🌟 **Let's Make a Simple Game on MIT App Inventor** 🌟
 
 <div align="center" style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; width: 60%; margin: auto;">
-  <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/3e258c4c82c45422337182ebdd8cab43115cfefe/assets/images/AppInventor_ImageContent_Game1.png" alt="Build your Game App within 5 Minutes" width="70%" style="border-radius: 8px;">
+  <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/3e258c4c82c45422337182ebdd8cab43115cfefe/assets/images/AppInventor_ImageContent_Game1.png" alt="Build your Game App within 5 Minutes" width="80%" style="border-radius: 8px;">
 </div>
 
----
+<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
+
 
 ### 1. Open a blank project
 1. **Start a New Project:** Create a new blank project.
@@ -123,7 +195,7 @@ This repository showcases **example projects** built with **[MIT App Inventor](h
    - Rename it to **MoleTimer**.
    - Enable the `Timer` and set `TimerInterval` to **500** ms.
 
----
+<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
 
 ### 2. Add an ImageSprite
 1. **Add the Mole Image:**
@@ -192,10 +264,12 @@ This repository showcases **example projects** built with **[MIT App Inventor](h
 
 ---
 
-**🎮 Congratulations! You've created a simple game using MIT App Inventor!**
+##  **🎮 Congratulations! You've created a simple game using MIT App Inventor!**
 
 </br>
 
+<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
+<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
 
 
 ## 🌟 **Advanced Tips and Enhancements** 🌟
@@ -229,7 +303,8 @@ Taking your Mole Mash game to the next level can be both fun and rewarding. Here
   - Pausing the game
   - Accessing a help menu
 
----
+<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
+
 
 ### 4. Implement Power-Ups and Bonuses
 **Why:** Power-ups and bonuses add an extra layer of strategy and excitement to the game.
@@ -245,6 +320,8 @@ Taking your Mole Mash game to the next level can be both fun and rewarding. Here
 </br>
 
 
+<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
+<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
 
 
 
@@ -262,48 +339,10 @@ Taking your Mole Mash game to the next level can be both fun and rewarding. Here
 - [Project Examples](#project-examples)
 - [Tags](#tags)
 
----
-
-</br>
-
-
-## **✨ Introduction to App Inventor**
-
-<p align="justify" style="background-color: white; color: black;">
-**[MIT App Inventor](http://appinventor.mit.edu/)** is an innovative, drag-and-drop visual programming platform that empowers users to create fully functional **Android apps**. It simplifies app development by utilizing **block-based coding**, making it accessible for individuals without prior programming experience. With App Inventor, you can quickly design apps that interface with real-world hardware like **sensors**, **IoT devices**, and **Bluetooth** components.
-</p>
-
-<p align="justify" style="background-color: white; color: black;">
-  App Inventor is an online tool, meaning you can create apps for phones or tablets right in your web browser. This website offers all the support you'll need to design apps:
-</p>
-
-> **Perfect for**:
-> - **Students** and **hobbyists** interested in building apps
-> - **Educators** teaching mobile development or IoT
-> - Anyone looking to prototype **IoT applications**
-
----
-
-</br>
+<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
 
 
 
-
-## **✨ App Inventor Features**
-
-- 🛠️ **No coding required** – Simplified drag-and-drop interface  
-- 📱 **Mobile hardware integration** – Use device **sensors**, **Bluetooth**, **GPS**, etc.  
-- 🌐 **IoT-Ready** – Easily connect your app with **Arduino**, **Raspberry Pi**, or other hardware  
-- 📡 **Real-time data handling** – Build apps with cloud storage and live updates  
-- 🎓 **Educational tool** – Widely used for teaching mobile development and **STEAM** education  
-
-![App Inventor UI Example](https://appinventor.mit.edu/assets/images/ai2-screenshot.png)  
-*Design user interfaces quickly using App Inventor's drag-and-drop system.*
-
----
-
-
-</br>
 
 
 ##  **✨ History of MIT App Inventor.**
@@ -330,7 +369,8 @@ By 2017, the platform had over 6 million users from 195 countries and had seen t
 >  -  Today, App Inventor continues to expand, supporting advanced features like IoT (Internet of Things) development, artificial intelligence (AI) integrations, and cloud services. MIT remains committed to making app development an accessible, creative, and enjoyable process for learners of all ages.
 
 
----
+<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
+
 
 </br>
 
@@ -350,48 +390,7 @@ You can download the project here.
 </br>
 
 
-## **🛠️ How to Use App Inventor**
 
-Follow this step-by-step guide to get started with **MIT App Inventor** and begin building your own apps!
-
-### **Step 1: Set Up MIT App Inventor**
-1. Visit the official website: [**MIT App Inventor**](http://appinventor.mit.edu/).
-2. Click on **Create Apps!** to open the App Inventor development environment.
-3. Log in using your **Google account** to access the app creation dashboard.
-
-### **Step 2: Create a New Project**
-1. On the main dashboard, click **Start New Project**.
-2. Enter a project name, like `MyFirstApp`, and click **OK**.
-3. You’ll be taken to the project workspace, where you can design your app.
-
-### **Step 3: Design the User Interface (UI)**
-1. **In the Designer tab**, drag and drop components (e.g., buttons, text boxes, images) from the **Palette** on the left into the **Viewer**.
-2. Customize each component’s properties (e.g., text, color, size) using the **Properties panel** on the right.
-
-### **Step 4: Add Functionality with Blocks**
-1. Switch to the **Blocks** tab to create the logic behind your app.
-2. Drag blocks like `When Button1.Click` from the component list and add **logic** or **control blocks** to perform actions such as changing text, displaying notifications, or interacting with hardware.
-
-   ![Blocks Example](https://appinventor.mit.edu/assets/images/blocks.png)  
-   *Block-based coding interface*  
-
-### **Step 5: Connect Your Device**
-1. **Live Testing**: Test your app on a real device using the **MIT AI2 Companion** app:
-   - Download the [**MIT AI2 Companion**](https://play.google.com/store/apps/details?id=edu.mit.appinventor.aicompanion3) from the Play Store.
-   - Open the app, and in App Inventor, go to **Connect** → **AI Companion**.
-   - Scan the displayed **QR code** or enter the code to sync your device for live testing.
-
-2. **Emulator**: Alternatively, use the built-in emulator by clicking **Connect** → **Emulator**.
-
-### **Step 6: Build and Test the App**
-1. To export your app as an installable APK, click **Build** → **App (save .apk to my computer)**.
-2. Once the APK is generated, download and install it on any Android device.
-
-> 🎉 **Tip**: You can use **AI-powered cloud services** like **Firebase** for **real-time data** synchronization.
-
----
-
-</br>
 
 
 ## **🧪 Project Examples**
@@ -446,14 +445,15 @@ Explore these real-world projects to see how you can integrate hardware with **A
 [MIT App Inventor](http://appinventor.mit.edu/), [Mobile App Development](https://en.wikipedia.org/wiki/Mobile_app), [IoT](https://en.wikipedia.org/wiki/Internet_of_things), [Hardware Interfacing](https://en.wikipedia.org/wiki/Embedded_system), [Sensors](https://en.wikipedia.org/wiki/Sensor), [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth), [GPS Tracking](https://en.wikipedia.org/wiki/Global_Positioning_System), [Real-Time Data](https://en.wikipedia.org/wiki/Real-time_computing), [Arduino Integration](https://www.arduino.cc/), [Robotics](https://en.wikipedia.org/wiki/Robotics), [No-Code Development](https://en.wikipedia.org/wiki/No-code_development_platform), [Cloud Integration](https://en.wikipedia.org/wiki/Cloud_computing)
 
 
----
+<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
+
 
 
 </br>
 
 
 
-## ⚗️ **Free Examples Gallery**
+## ⚗️ **Examples Gallery**
 
 More App Inventor Tutorials for Beginners
 
