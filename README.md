@@ -1,14 +1,32 @@
 # 🌟 App Inventor Examples 🌟
+
+<p align="justify" style="background-color: white; color: black;">
+  
 This repository showcases **example projects** built with **[MIT App Inventor](http://appinventor.mit.edu/)**, covering key concepts like **IoT**, **hardware interfacing**, **GPS tracking**, and **real-time data handling**. These examples are perfect for **beginners** and **educators** seeking to explore mobile app development and **no-code** programming.
+
+</p>
+
+</br>
 
 <div align="center" style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; width: 90%; margin: auto;">
   <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/5555f50582d89140fcc17434099b3ca2bc245d9e/assets/images/App%20Inventor%20Tutorial%20Banner_1c.gif" alt="H-Bridge Circuit Diagram" width="80%" style="border-radius: 8px;">
 </div>
 
+</br>
+
+---
+
+<p align="justify" style="background-color: #f9f9f9; color: black; padding: 10px; border-radius: 8px; margin-bottom: 20px;">
+  
 **MIT App Inventor** is a great tool to introduce beginners to **Android** app programming. It is an **open-source**, **cloud-based** programming environment which allows you to make your own **mobile apps**n using a **blocks-based programming language**. You access App Inventor using a web browser (Chrome, Firefox, Safari). With these beginner-friendly tutorials, you will learn the basics of programming apps for Android and iOS phones and tablets.
 
+</p>
+
+<p align="justify" style="background-color: #f9f9f9; color: black; padding: 10px; border-radius: 8px; margin-bottom: 20px;">
+  
 App Inventor platform is developed by the Massachusetts Institute of Technology (MIT). It is composed of a **DESIGNER** section where you visually design your app layout and a **BLOCKS** sections where you include the code to run your app.
 
+</p>
 
 ---
 
@@ -29,7 +47,7 @@ App Inventor platform is developed by the Massachusetts Institute of Technology 
 
 
 
-## You Will Need
+## ✨ You Will Need
 
 <table style="width: 100%;">
   <tr>
@@ -240,13 +258,15 @@ Taking your Mole Mash game to the next level can be both fun and rewarding. Here
 </br>
 
 
-## **Introduction to App Inventor**
+## **✨ Introduction to App Inventor**
 
+<p align="justify" style="background-color: white; color: black;">
 **[MIT App Inventor](http://appinventor.mit.edu/)** is an innovative, drag-and-drop visual programming platform that empowers users to create fully functional **Android apps**. It simplifies app development by utilizing **block-based coding**, making it accessible for individuals without prior programming experience. With App Inventor, you can quickly design apps that interface with real-world hardware like **sensors**, **IoT devices**, and **Bluetooth** components.
+</p>
 
-
-App Inventor is an online tool, meaning you can create apps for phones or tablets right in your web browser. This website offers all the support you'll need to design apps:
-
+<p align="justify" style="background-color: white; color: black;">
+  App Inventor is an online tool, meaning you can create apps for phones or tablets right in your web browser. This website offers all the support you'll need to design apps:
+</p>
 
 > **Perfect for**:
 > - **Students** and **hobbyists** interested in building apps
@@ -277,7 +297,7 @@ App Inventor is an online tool, meaning you can create apps for phones or tablet
 </br>
 
 
-##  **History of MIT App Inventor.**
+##  **✨ History of MIT App Inventor.**
 >  -  MIT App Inventor has its roots in the collaborative efforts between Google and the Massachusetts Institute of Technology (MIT), with a goal of democratizing app development and making programming accessible to everyone, especially beginners. The journey of App Inventor has been shaped by several key milestones:
 
 ###  Early Development at Google (2009-2011)
@@ -306,8 +326,9 @@ By 2017, the platform had over 6 million users from 195 countries and had seen t
 </br>
 
 
-APP INVENTOR CONTROLS
-DESIGNER
+##  ✨ APP INVENTOR CONTROLS:
+
+###  DESIGNER
 The first section called Palette includes all the objects and layout options you can choose and drag onto the screen, that is media, buttons, text labels, images, timer, etc.
 The central is the Viewer, that is the visual rendering of your phone screen. Close to the screen, you can see the Components window, where you will see all the objects you added to your screen. In the beginning, you will see just “Screen 1”.
 The last section on the left, Properties, regards all the options you can choose to change the attributes of the object you have included in your screen. For example, here are the options for changing your Screen1 attributes like background colour, background image, title, alignment.
