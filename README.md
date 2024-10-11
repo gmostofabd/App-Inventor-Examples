@@ -29,39 +29,30 @@ App Inventor platform is developed by the Massachusetts Institute of Technology 
 
 
 
-<div align="center" style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; width: 90%; margin: auto;">
-  <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/07dff26be25457ac6e6cd42a9dd10f2db6bda2c2/assets/images/App%20Inventor%20Tutorial%20(yourNeeds).gif" alt="H-Bridge Circuit Diagram" width="80%" style="border-radius: 8px;">
-</div>
+## You Will Need
+
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 40%; text-align: center; vertical-align: middle;">
+      <div style="height: 100%; display: flex; justify-content: center; align-items: center;">
+        <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/07dff26be25457ac6e6cd42a9dd10f2db6bda2c2/assets/images/App%20Inventor%20Tutorial%20(yourNeeds).gif" alt="App Inventor Tools" width="90%" style="border-radius: 8px;">
+      </div>
+    </td>
+    <td style="width: 60%; vertical-align: top;">
+      <strong>Tools and Resources:</strong>
+      <ul style="list-style-type: disc; padding-left: 20px; font-size: 14px;">
+        <li><strong style="color: #2E8B57;">💻 A Mac or Windows computer:</strong> The main environment for building your apps.</li>
+        <li><strong style="color: #2E8B57;">📱 Smartphone or Emulator:</strong> The device where your apps will be installed and perform.</li>
+        <li><strong style="color: #2E8B57;">🌐 A Wi-Fi connection:</strong> To use the platform and access necessary resources.</li>
+        <li><strong style="color: #2E8B57;">App Inventor Platform:</strong> The main environment for building your apps.</li>
+        <li><strong style="color: #2E8B57;">🔑 Google Account:</strong> Required to log into App Inventor.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 
-## **✨ You Will Need:**
 
-<div style="display: flex; justify-content: center; width: 100%;">
-  <table style="background-color:#e6f7ff; width:80%; border-collapse:collapse; max-width: 100%;">
-    <thead>
-      <tr>
-        <th style="padding: 10px; text-align: left;">🖥️ <strong>Item</strong></th>
-        <th style="padding: 10px; text-align: left;">📋 <strong>Description</strong></th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="padding: 10px; background-color:#ffffff;">💻 <strong>A Mac or Windows computer</strong></td>
-        <td style="padding: 10px; background-color:#ffffff;">Ensure your system meets the necessary <strong>system requirements</strong>.</td>
-      </tr>
-      <tr>
-        <td style="padding: 10px; background-color:#f9f9f9;">🌐 <strong>A Wi-Fi connection</strong></td>
-        <td style="padding: 10px; background-color:#f9f9f9;">Stable <strong>internet connection</strong> is required to download tools and run apps smoothly.</td>
-      </tr>
-      <tr>
-        <td style="padding: 10px; background-color:#ffffff;">📱 <strong>A phone or tablet</strong></td>
-        <td style="padding: 10px; background-color:#ffffff;">You will build a <strong>mobile app</strong>, and it's fun to test it <strong>live</strong> on your device while you build (setup required).</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
----
 
 </br>
 
