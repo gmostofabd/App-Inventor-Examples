@@ -55,17 +55,16 @@ This repository showcases **example projects** built with **[MIT App Inventor](h
 
 
 
-## ✨ You Will Need
+## ✨ Tools and Resources you will need for the total processes:
 
 <table style="width: 100%;">
   <tr>
     <td style="width: 40%; text-align: center; vertical-align: middle;">
       <div style="height: 100%; display: flex; justify-content: center; align-items: center;">
         <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/07dff26be25457ac6e6cd42a9dd10f2db6bda2c2/assets/images/App%20Inventor%20Tutorial%20(yourNeeds).gif" alt="App Inventor Tools" width="90%" style="border-radius: 8px;">
-      </div>
+      </div>     
     </td>
     <td style="width: 60%; vertical-align: top;">
-      <h3><strong>Tools and Resources you will need for the total processes:</strong></h3>
       <ul style="list-style-type: disc; padding-left: 20px; font-size: 14px;">
         <li><strong style="color: #2E8B57;">💻 A Mac or Windows computer:</strong> The main environment for building your apps.</li>
         <li><strong style="color: #2E8B57;">📱 Smartphone or Emulator:</strong> The device where your apps will be installed and perform.</li>
@@ -78,7 +77,9 @@ This repository showcases **example projects** built with **[MIT App Inventor](h
 </table>
 
 
+</br>
 
+---
 
 </br>
 
