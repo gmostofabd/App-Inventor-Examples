@@ -27,6 +27,13 @@ App Inventor platform is developed by the Massachusetts Institute of Technology 
 
 </br>
 
+
+
+<div align="center" style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; width: 90%; margin: auto;">
+  <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/07dff26be25457ac6e6cd42a9dd10f2db6bda2c2/assets/images/App%20Inventor%20Tutorial%20(yourNeeds).gif" alt="H-Bridge Circuit Diagram" width="80%" style="border-radius: 8px;">
+</div>
+
+
 ## **✨ You Will Need:**
 
 <div style="display: flex; justify-content: center; width: 100%;">
