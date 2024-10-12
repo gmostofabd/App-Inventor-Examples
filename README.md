@@ -2,13 +2,12 @@
 
 <p align="justify" style="background-color: white; color: black;">
   
-This repository showcases **example projects** built with **[MIT App Inventor](http://appinventor.mit.edu/)**, covering key concepts like **IoT**, **hardware interfacing**, **GPS tracking**, and **real-time data handling**. These examples are perfect for **beginners** and **educators** seeking to explore mobile app development and **no-code** programming.
+  This repository showcases **example projects** built with **[MIT App Inventor](http://appinventor.mit.edu/)**, covering key concepts like **IoT**, **hardware interfacing**, **GPS tracking**, and **real-time data handling**. These examples are perfect for **beginners** and **educators** seeking to explore mobile app development and **no-code** programming.
 </p>
 
 </br>
-</br>
 
-<div align="center" style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; width: 80%; margin: auto;">
+<div align="center" style="border: 2px solid #ddd; padding: 10px; border-radius: 10px; background-color: #f9f9f9; width: 90%; margin: auto;">
 <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/5555f50582d89140fcc17434099b3ca2bc245d9e/assets/images/App%20Inventor%20Tutorial%20Banner_1c.gif" alt="Full Bridge Inverter Circuit Diagram" width="80%" style="border-radius: 8px;">
 </div>
 
@@ -20,7 +19,7 @@ This repository showcases **example projects** built with **[MIT App Inventor](h
   
 </br>
 
-  <p style="background-color: #f9f9f9; color: black; padding: 10px; border-radius: 8px; margin-bottom: 20px; text-align: justify;">    
+  <p style="background-color: #f9f9f9; color: black; padding: 10px; border-radius: 8px; margin-bottom: 20px; text-align: justify;">   
     The App Inventor platform is developed by the Massachusetts Institute of Technology (MIT). It is composed of a <strong>DESIGNER</strong> section where you visually design your app layout and a <strong>BLOCKS</strong> section where you include the code to run your app.
     
   </p>
@@ -29,22 +28,18 @@ This repository showcases **example projects** built with **[MIT App Inventor](h
 
 </br>
 
-> [!NOTE]
-> You access App Inventor using a web browser (Chrome, Firefox, Safari). With these beginner-friendly tutorials, you will learn the basics of programming apps for Android and iOS phones and tablets.
-
-
+> [!NOTE]  
+> > You access App Inventor using a web browser (Chrome, Firefox, Safari). With these beginner-friendly tutorials, you will learn the basics of programming apps for Android and iOS phones and tablets.
 
 <hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
 
-
-
 </br>
 </br>
 
 
-| [![VideoBlocks](https://d1ow200m9i3wyh.cloudfront.net/img/assets/videoblocks/images/logo.png)](http://videoblocks.com)  | [![AudioBlocks](https://dtyn3c8zjrx01.cloudfront.net/img/assets/audioblocks/images/logo.png)](http://audioblocks.com) | [![GraphicStock](http://www.graphicstock.com/images/logo.jpg)](http://graphicstock.com) |
+| [![VideoBlocks](https://d1ow200m9i3wyh.cloudfront.net/img/assets/videoblocks/images/logo.png)](http://videoblocks.com)  | [![AudioBlocks](https://github.com/gmostofabd/App-Inventor-Examples/blob/8882c3e759920d3614b9913ab7a8fed8262e1af1/assets/images/AppInventorTutorial_4a.jpg)](http://audioblocks.com) | [![GraphicStock](https://github.com/gmostofabd/App-Inventor-Examples/blob/8882c3e759920d3614b9913ab7a8fed8262e1af1/assets/images/AppInventorTutorial_4a.png)](http://graphicstock.com) |
 |:---:|:---:|:---:|
-| http://videoblocks.com | http://audioblocks.com | http://graphicstock.com |
+| http://.com | http://.com | http://.com |
 
 
 
