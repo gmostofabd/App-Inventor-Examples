@@ -85,7 +85,7 @@ This repository showcases **example projects** built with **[MIT App Inventor](h
   <tr>
     <td style="width: 40%; text-align: center; vertical-align: middle;">
       <div style="height: 100%; display: flex; justify-content: center; align-items: center;">
-        <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/07dff26be25457ac6e6cd42a9dd10f2db6bda2c2/assets/images/App%20Inventor%20Tutorial%20(yourNeeds).gif" alt="App Inventor Tools" width="90%" style="border-radius: 8px;">
+        <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/0a830db05b65f1597fcc663fab170637330cc454/assets/images/App%20Inventor%20Tutorial%20Banner_3b.gif" alt="App Inventor Tools" width="90%" style="border-radius: 8px;">
       </div>     
     </td>
     <td style="width: 60%; vertical-align: top;">
@@ -172,18 +172,15 @@ Follow this step-by-step guide to get started with **MIT App Inventor** and begi
 
 <hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
 
-
-</br>
-
-</br>
-
-<div align="center" style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; width: 80%; margin: auto;">
-  <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/212146bd0f9f8f01bb780f3594727913e72b6004/assets/images/AI2_makeProject.jpg" alt="Get Started Project:" width="50%" style="border-radius: 8px;">
   
 </div>
 
 </br>
 </br>
+
+<div align="center" style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; width: 60%; margin: auto;">
+  <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/0a830db05b65f1597fcc663fab170637330cc454/assets/images/App%20Inventor%20Tutorial%20Banner_3a.gif" alt="Build your Game App within 5 Minutes" width="80%" style="border-radius: 8px;">
+</div>
 
 </br>
 </br>
@@ -194,9 +191,7 @@ Follow this step-by-step guide to get started with **MIT App Inventor** and begi
 
 ## 🌟 **Let's Make a Simple Game on MIT App Inventor** 🌟
 
-<div align="center" style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; width: 60%; margin: auto;">
-  <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/3e258c4c82c45422337182ebdd8cab43115cfefe/assets/images/AppInventor_ImageContent_Game1.png" alt="Build your Game App within 5 Minutes" width="80%" style="border-radius: 8px;">
-</div>
+
 
 <hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
 
