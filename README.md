@@ -3,29 +3,22 @@
 <p align="justify" style="background-color: white; color: black;">
   
 This repository showcases **example projects** built with **[MIT App Inventor](http://appinventor.mit.edu/)**, covering key concepts like **IoT**, **hardware interfacing**, **GPS tracking**, and **real-time data handling**. These examples are perfect for **beginners** and **educators** seeking to explore mobile app development and **no-code** programming.
-
 </p>
 
 </br>
+</br>
 
 <div align="center" style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; width: 80%; margin: auto;">
-  <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/5555f50582d89140fcc17434099b3ca2bc245d9e/assets/images/App%20Inventor%20Tutorial%20Banner_1c.gif" alt="Full Bridge Inverter Circuit Diagram" width="80%" style="border-radius: 8px;">
-  
+<img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/5555f50582d89140fcc17434099b3ca2bc245d9e/assets/images/App%20Inventor%20Tutorial%20Banner_1c.gif" alt="Full Bridge Inverter Circuit Diagram" width="80%" style="border-radius: 8px;">
 </div>
 
 </br>
 
 <div style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; width: 50%; margin: auto; text-align: center;">
  
-  <h3 style="margin-top: 20px;">    
-    MIT App Inventor is a great tool to introduce beginners to Android app programming. It is an open-source, cloud-based programming environment that allows you to make your own mobile apps using a Blocks-based Programming Language.
-    
-  </h3>
-
-  <p style="background-color: #f9f9f9; color: black; padding: 10px; border-radius: 8px; margin-bottom: 20px; text-align: justify;">    
-    You access App Inventor using a web browser (Chrome, Firefox, Safari). With these beginner-friendly tutorials, you will learn the basics of programming apps for Android and iOS phones and tablets.
-    
-  </p>
+  <h3 style="margin-top: 20px;">MIT App Inventor is a great tool to introduce beginners to Android app programming. It is an open-source, cloud-based programming environment that allows you to make your own mobile apps using a Blocks-based Programming Language.</h3>
+  
+</br>
 
   <p style="background-color: #f9f9f9; color: black; padding: 10px; border-radius: 8px; margin-bottom: 20px; text-align: justify;">    
     The App Inventor platform is developed by the Massachusetts Institute of Technology (MIT). It is composed of a <strong>DESIGNER</strong> section where you visually design your app layout and a <strong>BLOCKS</strong> section where you include the code to run your app.
@@ -36,12 +29,42 @@ This repository showcases **example projects** built with **[MIT App Inventor](h
 
 </br>
 
+> [!NOTE]
+> You access App Inventor using a web browser (Chrome, Firefox, Safari). With these beginner-friendly tutorials, you will learn the basics of programming apps for Android and iOS phones and tablets.
+
+
+
 <hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
+
+
+
+</br>
+</br>
+
+
+| [![VideoBlocks](https://d1ow200m9i3wyh.cloudfront.net/img/assets/videoblocks/images/logo.png)](http://videoblocks.com)  | [![AudioBlocks](https://dtyn3c8zjrx01.cloudfront.net/img/assets/audioblocks/images/logo.png)](http://audioblocks.com) | [![GraphicStock](http://www.graphicstock.com/images/logo.jpg)](http://graphicstock.com) |
+|:---:|:---:|:---:|
+| http://videoblocks.com | http://audioblocks.com | http://graphicstock.com |
+
+
+
+
+
+
+
+
+
+  
+
+
+
 
 
 </br>
 
 ## **✨ App Inventor Features**
+
+</br>
 
 | 🌟 **Feature**                     | 📋 **Description**                                                                                   |
 |-------------------------------------|-------------------------------------------------------------------------------------------------------|
@@ -62,7 +85,7 @@ This repository showcases **example projects** built with **[MIT App Inventor](h
   <tr>
     <td style="width: 40%; text-align: center; vertical-align: middle;">
       <div style="height: 100%; display: flex; justify-content: center; align-items: center;">
-        <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/07dff26be25457ac6e6cd42a9dd10f2db6bda2c2/assets/images/App%20Inventor%20Tutorial%20(yourNeeds).gif" alt="App Inventor Tools" width="90%" style="border-radius: 8px;">
+        <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/0a830db05b65f1597fcc663fab170637330cc454/assets/images/App%20Inventor%20Tutorial%20Banner_3b.gif" alt="App Inventor Tools" width="90%" style="border-radius: 8px;">
       </div>     
     </td>
     <td style="width: 60%; vertical-align: top;">
@@ -149,18 +172,15 @@ Follow this step-by-step guide to get started with **MIT App Inventor** and begi
 
 <hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
 
-
-</br>
-
-</br>
-
-<div align="center" style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; width: 80%; margin: auto;">
-  <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/212146bd0f9f8f01bb780f3594727913e72b6004/assets/images/AI2_makeProject.jpg" alt="Get Started Project:" width="50%" style="border-radius: 8px;">
   
 </div>
 
 </br>
 </br>
+
+<div align="center" style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; width: 60%; margin: auto;">
+  <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/0a830db05b65f1597fcc663fab170637330cc454/assets/images/App%20Inventor%20Tutorial%20Banner_3a.gif" alt="Build your Game App within 5 Minutes" width="80%" style="border-radius: 8px;">
+</div>
 
 </br>
 </br>
@@ -171,9 +191,7 @@ Follow this step-by-step guide to get started with **MIT App Inventor** and begi
 
 ## 🌟 **Let's Make a Simple Game on MIT App Inventor** 🌟
 
-<div align="center" style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; width: 60%; margin: auto;">
-  <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/3e258c4c82c45422337182ebdd8cab43115cfefe/assets/images/AppInventor_ImageContent_Game1.png" alt="Build your Game App within 5 Minutes" width="80%" style="border-radius: 8px;">
-</div>
+
 
 <hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
 
@@ -388,6 +406,31 @@ You can download the project here.
 
 
 </br>
+
+
+
+### Basic styling {#basic-styling}
+
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
+- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
+
+
+
+<div align="center">
+
+[![CI](https://github.com/fastify/fastify/workflows/ci/badge.svg)](https://github.com/fastify/fastify/actions/workflows/ci.yml)
+[![Package Manager CI](https://github.com/fastify/fastify/workflows/package-manager-ci/badge.svg)](https://github.com/fastify/fastify/actions/workflows/package-manager-ci.yml)
+[![Web SIte](https://github.com/fastify/fastify/workflows/website/badge.svg)](https://github.com/fastify/fastify/actions/workflows/website.yml)
+[![Known Vulnerabilities](https://snyk.io/test/github/fastify/fastify/badge.svg)](https://snyk.io/test/github/fastify/fastify)
+[![Coverage Status](https://coveralls.io/repos/github/fastify/fastify/badge.svg?branch=main)](https://coveralls.io/github/fastify/fastify?branch=main)
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://standardjs.com/)
+
+</div>
+
+
+
+
 
 
 
