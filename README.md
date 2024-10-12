@@ -37,7 +37,7 @@
 </br>
 
 
-| [![VideoBlocks](https://d1ow200m9i3wyh.cloudfront.net/img/assets/videoblocks/images/logo.png)](http://videoblocks.com)  | [![AudioBlocks](https://github.com/gmostofabd/App-Inventor-Examples/blob/8882c3e759920d3614b9913ab7a8fed8262e1af1/assets/images/AppInventorTutorial_4a.jpg)](http://audioblocks.com) | [![GraphicStock](https://github.com/gmostofabd/App-Inventor-Examples/blob/8882c3e759920d3614b9913ab7a8fed8262e1af1/assets/images/AppInventorTutorial_4a.png)](http://graphicstock.com) |
+| [![VideoBlocks](https://github.com/gmostofabd/App-Inventor-Examples/blob/8882c3e759920d3614b9913ab7a8fed8262e1af1/assets/images/AppInventorTutorial_4a.png)](http://videoblocks.com)  | [![AudioBlocks](https://github.com/gmostofabd/App-Inventor-Examples/blob/2906f05d2ecdd52938ff8c44883406cecefe3c24/assets/images/AppInventor_Banner_2a.png)](http://audioblocks.com) | [![GraphicStock](https://github.com/gmostofabd/App-Inventor-Examples/blob/8882c3e759920d3614b9913ab7a8fed8262e1af1/assets/images/AppInventorTutorial_4a.png)](http://graphicstock.com) |
 |:---:|:---:|:---:|
 | http://.com | http://.com | http://.com |
 
@@ -80,7 +80,7 @@
   <tr>
     <td style="width: 40%; text-align: center; vertical-align: middle;">
       <div style="height: 100%; display: flex; justify-content: center; align-items: center;">
-        <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/0a830db05b65f1597fcc663fab170637330cc454/assets/images/App%20Inventor%20Tutorial%20Banner_3b.gif" alt="App Inventor Tools" width="90%" style="border-radius: 8px;">
+        <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/c5f43596fc7642ba04969f3ac111f54c0e9e91b1/assets/images/App%20Inventor%20Tutorial%20(yourNeeds_V1).gif" alt="App Inventor Tools" width="80%" style="border-radius: 8px;">
       </div>     
     </td>
     <td style="width: 60%; vertical-align: top;">
@@ -109,18 +109,12 @@
 
 </br>
 
-<div align="center" style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; width: 60%; margin: auto;">
-  <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/2906f05d2ecdd52938ff8c44883406cecefe3c24/assets/images/AppInventor_Banner_2a.png" alt="App Inventor Tutorials" width="70%" style="border-radius: 8px;">
-</div>
-
 <hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
 
 
 </br>
-
 </br>
 </br>
-
 
 
 <hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
