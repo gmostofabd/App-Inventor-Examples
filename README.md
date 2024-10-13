@@ -8,7 +8,7 @@
 </br>
 
 <div align="center" style="border: 2px solid #ddd; padding: 10px; border-radius: 10px; background-color: #f9f9f9; width: 90%; margin: auto;">
-<img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/5555f50582d89140fcc17434099b3ca2bc245d9e/assets/images/App%20Inventor%20Tutorial%20Banner_1c.gif" alt="Full Bridge Inverter Circuit Diagram" width="80%" style="border-radius: 8px;">
+<img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/5555f50582d89140fcc17434099b3ca2bc245d9e/assets/images/App%20Inventor%20Tutorial%20Banner_1c.gif" alt="Full Bridge Inverter Circuit Diagram" width="100%" style="border-radius: 8px;">
 </div>
 
 </br>
@@ -31,10 +31,98 @@
 > [!NOTE]  
 > > You access App Inventor using a web browser (Chrome, Firefox, Safari). With these beginner-friendly tutorials, you will learn the basics of programming apps for Android and iOS phones and tablets.
 
+
+>  [!History]
+> >  The App Inventor platform is developed by the Massachusetts Institute of Technology (MIT). It is composed of a <strong>DESIGNER</strong> section where you visually design your app layout and a <strong>BLOCKS</strong> section where you include the code to run your app.
+
 <hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
 
 </br>
 </br>
+
+
+
+
+[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api)](https://github.com/cheehwatang/github-readme-daily-quotes)
+
+
+> [!IMPORTANT]
+> This is some important text.
+
+> [!WARNING]
+> This is a warning.
+
+> [!NOTE]
+> This is just a note.
+
+
+
+
+<details>
+    <summary>Collapsable Title</summary>
+    <p>Put Content Here</p>
+</details>
+
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE" target="_blank">
+ <img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
+</a>
+
+
+<img src="https://i.ibb.co/sCwYpZ8/general.gif" alt="Video Preview Gif" align="right" width="500px"/>
+
+
+
+**[<kbd> <br> Install <br> </kbd>][Install]** 
+**[<kbd> <br> Quick Start <br> </kbd>][Quick Start]** 
+**[<kbd> <br> Configure <br> </kbd>][Configure]** 
+**[<kbd> <br> Contribute <br> </kbd>][Contribute]**
+
+
+
+A list of things:
+- [X] Googley Eyes
+- [X] Tesco Clubcard
+- [ ] The Elizibeth Line
+- [ ] Beans on Toast
+- [ ] My Current Account
+
+
+Some text[^myreference] Clicking the here will scroll down to references.
+
+[^myreference]: Here's a reference (include links or something)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE" target="_blank">
+ <img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
+</a>
+
+
+> **Note**
+> This is a note
+
+> [!NOTE]
+> This is a note
+
+🔭 I’m currently working on my Skills.
+🌱 I’m currently learning more about Full-Stack Development.
+🤔 I’m looking for help with Exploring New Technologies.
+💬 Ask me about any tech-related stuff.
+📫 How to reach me: Email -
+😄 Pronouns: She
+⚡ Fun fact: I Love to play pubg.
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
+
+
+
+
+
+
+
 
 
 | [![VideoBlocks](https://github.com/gmostofabd/App-Inventor-Examples/blob/8882c3e759920d3614b9913ab7a8fed8262e1af1/assets/images/AppInventorTutorial_4a.png)](http://videoblocks.com)  | [![AudioBlocks](https://github.com/gmostofabd/App-Inventor-Examples/blob/2906f05d2ecdd52938ff8c44883406cecefe3c24/assets/images/AppInventor_Banner_2a.png)](http://audioblocks.com) | [![GraphicStock](https://github.com/gmostofabd/App-Inventor-Examples/blob/8882c3e759920d3614b9913ab7a8fed8262e1af1/assets/images/AppInventorTutorial_4a.png)](http://graphicstock.com) |
