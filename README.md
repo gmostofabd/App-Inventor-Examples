@@ -8,7 +8,7 @@
 </br>
 
 <div align="center" style="border: 2px solid #ddd; padding: 10px; border-radius: 10px; background-color: #f9f9f9; width: 90%; margin: auto;">
-<img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/5555f50582d89140fcc17434099b3ca2bc245d9e/assets/images/App%20Inventor%20Tutorial%20Banner_1c.gif" alt="Full Bridge Inverter Circuit Diagram" width="100%" style="border-radius: 8px;">
+<img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/5555f50582d89140fcc17434099b3ca2bc245d9e/assets/images/App%20Inventor%20Tutorial%20Banner_1c.gif" alt="Full Bridge Inverter Circuit Diagram" width="90%" style="border-radius: 8px;">
 </div>
 
 </br>
@@ -85,7 +85,7 @@
   <tr>
     <td style="width: 60%; text-align: center; vertical-align: middle;">
       <div style="height: 100%; display: flex; justify-content: center; align-items: center;">
-        <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/c5f43596fc7642ba04969f3ac111f54c0e9e91b1/assets/images/App%20Inventor%20Tutorial%20(yourNeeds_V1).gif" alt="App Inventor Tools" width="100%" style="border-radius: 8px;">
+        <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/c5f43596fc7642ba04969f3ac111f54c0e9e91b1/assets/images/App%20Inventor%20Tutorial%20(yourNeeds_V1).gif" alt="App Inventor Tools" width="90%" style="border-radius: 8px;">
       </div>     
     </td>
     <td style="width: 40%; vertical-align: top;">
@@ -103,7 +103,7 @@
 
 </br>
 
-<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
+<hr style="border: none; height: 5px; background-color: #696969; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
 
 
 </br>
@@ -173,7 +173,7 @@ Follow this step-by-step guide to get started with **MIT App Inventor** and begi
 </br>
 
 <div align="center" style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; width: 90%; margin: auto;">
-  <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/0a830db05b65f1597fcc663fab170637330cc454/assets/images/App%20Inventor%20Tutorial%20Banner_3a.gif" alt="Build your Game App within 5 Minutes" width="100%" style="border-radius: 8px;">
+  <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/0a830db05b65f1597fcc663fab170637330cc454/assets/images/App%20Inventor%20Tutorial%20Banner_3a.gif" alt="Build your Game App within 5 Minutes" width="90%" style="border-radius: 8px;">
 </div>
 
 </br>
