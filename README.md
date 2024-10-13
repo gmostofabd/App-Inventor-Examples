@@ -71,6 +71,8 @@
 | 🌐 **_Real-World Applications:_**   | Develop **practical skills** that create a solid **foundation for future learning** in real-world tasks. |
 | 📡 **_Real-time Data Handling:_**   | Build apps with **cloud storage** and live updates for **seamless real-time experiences**.               |
 
+</br>
+
 ---
 
 </br>
@@ -116,39 +118,37 @@
 
 
 </br>
-</br>
-</br>
 
 
 <hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
 
 
-## **🛠️ How to Use App Inventor**
+# **🛠️ How to Use App Inventor**
 
 Follow this step-by-step guide to get started with **MIT App Inventor** and begin building your own apps!
 
-### **Step 1: Set Up MIT App Inventor**
+## **Step 1: Set Up MIT App Inventor**
 1. Visit the official website: [**MIT App Inventor**](http://appinventor.mit.edu/).
 2. Click on **Create Apps!** to open the App Inventor development environment.
 3. Log in using your **Google account** to access the app creation dashboard.
 
-### **Step 2: Create a New Project**
+## **Step 2: Create a New Project**
 1. On the main dashboard, click **Start New Project**.
 2. Enter a project name, like `MyFirstApp`, and click **OK**.
 3. You’ll be taken to the project workspace, where you can design your app.
 
-### **Step 3: Design the User Interface (UI)**
+## **Step 3: Design the User Interface (UI)**
 1. **In the Designer tab**, drag and drop components (e.g., buttons, text boxes, images) from the **Palette** on the left into the **Viewer**.
 2. Customize each component’s properties (e.g., text, color, size) using the **Properties panel** on the right.
 
-### **Step 4: Add Functionality with Blocks**
+## **Step 4: Add Functionality with Blocks**
 1. Switch to the **Blocks** tab to create the logic behind your app.
 2. Drag blocks like `When Button1.Click` from the component list and add **logic** or **control blocks** to perform actions such as changing text, displaying notifications, or interacting with hardware.
 
    ![Blocks Example](https://github.com/gmostofabd/App-Inventor-Examples/blob/550243358e79f68e1908a24f4a57a2470dc7bbe1/assets/images/AppInventor_ImageContent_intro1.png)  
    *Block-based coding interface*  
 
-### **Step 5: Connect Your Device**
+## **Step 5: Connect Your Device**
 1. **Live Testing**: Test your app on a real device using the **MIT AI2 Companion** app:
    - Download the [**MIT AI2 Companion**](https://play.google.com/store/apps/details?id=edu.mit.appinventor.aicompanion3) from the Play Store.
    - Open the app, and in App Inventor, go to **Connect** → **AI Companion**.
@@ -156,39 +156,34 @@ Follow this step-by-step guide to get started with **MIT App Inventor** and begi
 
 2. **Emulator**: Alternatively, use the built-in emulator by clicking **Connect** → **Emulator**.
 
-### **Step 6: Build and Test the App**
+## **Step 6: Build and Test the App**
 1. To export your app as an installable APK, click **Build** → **App (save .apk to my computer)**.
 2. Once the APK is generated, download and install it on any Android device.
 
 > 🎉 **Tip**: You can use **AI-powered cloud services** like **Firebase** for **real-time data** synchronization.
 
-<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
+</br>
+</br>
 
+<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
   
 </div>
 
 </br>
 </br>
 
-<div align="center" style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; width: 60%; margin: auto;">
-  <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/0a830db05b65f1597fcc663fab170637330cc454/assets/images/App%20Inventor%20Tutorial%20Banner_3a.gif" alt="Build your Game App within 5 Minutes" width="80%" style="border-radius: 8px;">
+<div align="center" style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; width: 90%; margin: auto;">
+  <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/0a830db05b65f1597fcc663fab170637330cc454/assets/images/App%20Inventor%20Tutorial%20Banner_3a.gif" alt="Build your Game App within 5 Minutes" width="100%" style="border-radius: 8px;">
 </div>
 
 </br>
-</br>
 
-</br>
-</br>
-
-
-## 🌟 **Let's Make a Simple Game on MIT App Inventor** 🌟
-
-
+# 🌟 **Let's Make a Simple Game on MIT App Inventor** 🌟
 
 <hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
 
 
-### 1. Open a blank project
+## 1. Open a blank project
 1. **Start a New Project:** Create a new blank project.
 2. **Add Canvas:**
    - Go to **Drawing and Animation** and drag a `Canvas` element.
@@ -207,7 +202,7 @@ Follow this step-by-step guide to get started with **MIT App Inventor** and begi
 
 <hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
 
-### 2. Add an ImageSprite
+## 2. Add an ImageSprite
 1. **Add the Mole Image:**
    - From **Drawing and Animation**, drag an `ImageSprite` to the **MyCanvas** element.
    - Download and use a **mole image** for the sprite.
@@ -218,7 +213,7 @@ Follow this step-by-step guide to get started with **MIT App Inventor** and begi
 
 ---
 
-### 3. Move the Mole
+## 3. Move the Mole
 1. **Create MoveMole Procedure:**
    - Switch to the **Blocks** screen.
    - From **Procedures**, drag out a `procedure` block and name it **MoveMole**.
@@ -233,7 +228,7 @@ Follow this step-by-step guide to get started with **MIT App Inventor** and begi
 
 ---
 
-### 4. Create UpdateScore Procedure
+## 4. Create UpdateScore Procedure
 1. **Initialize Score Variable:**
    - In the **Variables** tab, create an `initialize global` block for **score** and set its value to **0**.
 2. **Set Score Label Text:**
@@ -245,14 +240,14 @@ Follow this step-by-step guide to get started with **MIT App Inventor** and begi
 
 ---
 
-### 5. Trigger MoveMole with Timer
+## 5. Trigger MoveMole with Timer
 1. **Use Timer Event:**
    - Get the `when MoleTimer.Timer` block.
    - Inside it, call the **MoveMole** procedure.
 
 ---
 
-### 6. Update the Score on Mole Touch
+## 6. Update the Score on Mole Touch
 1. **Set Up Mole Touched Event:**
    - Get the `when Mole.Touched x y` block.
 2. **Increment Score:**
@@ -264,7 +259,7 @@ Follow this step-by-step guide to get started with **MIT App Inventor** and begi
 
 ---
 
-### 7. Make the Reset Button Work
+## 7. Make the Reset Button Work
 1. **Set Up Reset Button Click Event:**
    - Get the `when ResetButton.Click` block.
 2. **Reset Score:**
@@ -274,7 +269,7 @@ Follow this step-by-step guide to get started with **MIT App Inventor** and begi
 
 ---
 
-##  **🎮 Congratulations! You've created a simple game using MIT App Inventor!**
+#  **🎮 Congratulations! You've created a simple game using MIT App Inventor!**
 
 </br>
 
@@ -323,7 +318,7 @@ Taking your Mole Mash game to the next level can be both fun and rewarding. Here
 - Create additional **ImageSprites** for power-ups.
 - Use **conditional statements** to check if the player has collected a power-up and apply its effects.
 
----
+<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
 
 **🚀 With these advanced tips, your Mole Mash game will be more engaging and fun! Enjoy enhancing your game!** 
 
@@ -332,11 +327,6 @@ Taking your Mole Mash game to the next level can be both fun and rewarding. Here
 
 <hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
 <hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
-
-
-<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
-
-
 
 </br>
 
@@ -417,8 +407,6 @@ Explore these real-world projects to see how you can integrate hardware with **A
 
 <hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
 
-
-
 </br>
 
 
@@ -455,3 +443,6 @@ A list of things:
 </details>
 
 [![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api)](https://github.com/cheehwatang/github-readme-daily-quotes)
+
+<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
+<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
