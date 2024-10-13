@@ -2,27 +2,27 @@
 
 <p align="justify" style="background-color: white; color: black;">
   
-  This repository showcases **example projects** built with **[MIT App Inventor](http://appinventor.mit.edu/)**, covering key concepts like **IoT**, **hardware interfacing**, **GPS tracking**, and **real-time data handling**. These examples are perfect for **beginners** and **educators** seeking to explore mobile app development and **no-code** programming.
+  This repository showcases **Example Projects** built with **[MIT App Inventor](http://appinventor.mit.edu/)**, covering key concepts like **IoT**, **Hardware Interfacing**, **GPS Tracking**, and **Real-Time data handling**. These examples are perfect for **Beginners** and **Educators** seeking to explore mobile App development and **No-code** programming.
 </p>
 
 </br>
 
 <div align="center" style="border: 2px solid #ddd; padding: 10px; border-radius: 10px; background-color: #f9f9f9; width: 90%; margin: auto;">
-<img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/5555f50582d89140fcc17434099b3ca2bc245d9e/assets/images/App%20Inventor%20Tutorial%20Banner_1c.gif" alt="Full Bridge Inverter Circuit Diagram" width="90%" style="border-radius: 8px;">
+<img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/5555f50582d89140fcc17434099b3ca2bc245d9e/assets/images/App%20Inventor%20Tutorial%20Banner_1c.gif" alt="Learn how to build mobile apps using App Inventor" width="90%" style="border-radius: 8px;">
 </div>
 
 </br>
 
 <div style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; width: 50%; margin: auto; text-align: center;">
  
-  <h3 style="margin-top: 20px;">MIT App Inventor is a great tool to introduce beginners to Android App Programming. It is an open-source, Cloud-based Programming Environment that allows you to make your own mobile apps using a Blocks-based Programming Language.</h3>
+  <h3 style="margin-top: 20px;">MIT App Inventor is a great tool to introduce beginners to Android App Programming. It is an open-source, Cloud-based Programming Environment that allows you to make your own mobile apps using a Blocks-based Programming Language. With these beginner-friendly tutorials, you will learn the basics of programming apps for Android and iOS phones and tablets.</h3>
   
 </div>
 
 </br>
 
 > [!IMPORTANT]
-> ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)   You access App Inventor using a web browser (Chrome, Firefox, Safari). With these beginner-friendly tutorials, you will learn the basics of programming apps for Android and iOS phones and tablets.
+> ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)   You access App Inventor using a web browser (Chrome, Firefox, Safari).
 
 </br>
 
