@@ -145,7 +145,7 @@ Follow this step-by-step guide to get started with **MIT App Inventor** and begi
 1. Switch to the **Blocks** tab to create the logic behind your app.
 2. Drag blocks like `When Button1.Click` from the component list and add **logic** or **control blocks** to perform actions such as changing text, displaying notifications, or interacting with hardware.
 
-   ![Blocks Example](https://appinventor.mit.edu/assets/images/blocks.png)  
+   ![Blocks Example](https://github.com/gmostofabd/App-Inventor-Examples/blob/550243358e79f68e1908a24f4a57a2470dc7bbe1/assets/images/AppInventor_ImageContent_intro1.png)  
    *Block-based coding interface*  
 
 ### **Step 5: Connect Your Device**
@@ -337,23 +337,6 @@ Taking your Mole Mash game to the next level can be both fun and rewarding. Here
 <hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
 
 
-
-
-
-##  **✨ History of MIT App Inventor.**
->  -  MIT App Inventor has its roots in the collaborative efforts between Google and the Massachusetts Institute of Technology (MIT), with a goal of democratizing app development and making programming accessible to everyone, especially beginners. The journey of App Inventor has been shaped by several key milestones:
-
-###  Early Development at Google (2009-2011)
-
-###  Transition to MIT (2011-2012)
-
-###  Advancements and Growth (2013-present)
-
-###  Impact on Education
-
-###  Present and Future
-
-<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
 
 </br>
 
