@@ -8,57 +8,49 @@
 </br>
 
 <div align="center" style="border: 2px solid #ddd; padding: 10px; border-radius: 10px; background-color: #f9f9f9; width: 90%; margin: auto;">
-<img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/5555f50582d89140fcc17434099b3ca2bc245d9e/assets/images/App%20Inventor%20Tutorial%20Banner_1c.gif" alt="Full Bridge Inverter Circuit Diagram" width="100%" style="border-radius: 8px;">
+<img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/5555f50582d89140fcc17434099b3ca2bc245d9e/assets/images/App%20Inventor%20Tutorial%20Banner_1c.gif" alt="Full Bridge Inverter Circuit Diagram" width="90%" style="border-radius: 8px;">
 </div>
 
 </br>
 
 <div style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; width: 50%; margin: auto; text-align: center;">
  
-  <h3 style="margin-top: 20px;">MIT App Inventor is a great tool to introduce beginners to Android app programming. It is an open-source, cloud-based programming environment that allows you to make your own mobile apps using a Blocks-based Programming Language.</h3>
+  <h3 style="margin-top: 20px;">MIT App Inventor is a great tool to introduce beginners to Android App Programming. It is an open-source, Cloud-based Programming Environment that allows you to make your own mobile apps using a Blocks-based Programming Language.</h3>
   
 </div>
 
 </br>
 
-
 > [!IMPORTANT]
-> You access App Inventor using a web browser (Chrome, Firefox, Safari). With these beginner-friendly tutorials, you will learn the basics of programming apps for Android and iOS phones and tablets.
-> 
+> ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)   You access App Inventor using a web browser (Chrome, Firefox, Safari). With these beginner-friendly tutorials, you will learn the basics of programming apps for Android and iOS phones and tablets.
+
 </br>
 
 > [!NOTE]  
 > 
-> > The App Inventor platform is developed by the Massachusetts Institute of Technology (MIT).
+> > ![#f03c15](https://placehold.co/15x15/503c15/503c15.png)   The App Inventor platform is developed by the Massachusetts Institute of Technology (MIT).
 > 
-> > It is composed of a <strong>DESIGNER</strong> section where you visually design your app layout and a <strong>BLOCKS</strong> section where you include the code to run your app.
+> > ![#f03c15](https://placehold.co/15x15/503c15/503c15.png)   It is composed of a <strong>DESIGNER</strong> section where you visually design your app layout and a <strong>BLOCKS</strong> section where you include the code to run your app.
 > > 
 </br>
 
 > [!WARNING]
-> This is a warning.
+> ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)   This is a warning.
+
+</br>
+
+---
 
 </br>
 </br>
-
-
-<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
-
-</br>
-</br>
-
-
-
-
-
 
 | [![VideoBlocks](https://github.com/gmostofabd/App-Inventor-Examples/blob/8882c3e759920d3614b9913ab7a8fed8262e1af1/assets/images/AppInventorTutorial_4a.png)](http://videoblocks.com)  | [![AudioBlocks](https://github.com/gmostofabd/App-Inventor-Examples/blob/2906f05d2ecdd52938ff8c44883406cecefe3c24/assets/images/AppInventor_Banner_2a.png)](http://audioblocks.com) | [![GraphicStock](https://github.com/gmostofabd/App-Inventor-Examples/blob/8882c3e759920d3614b9913ab7a8fed8262e1af1/assets/images/AppInventorTutorial_4a.png)](http://graphicstock.com) |
 |:---:|:---:|:---:|
 | http://.com | http://.com | http://.com |
 
-
-
 </br>
+
+---
 
 ## **✨ App Inventor Features**
 
@@ -77,35 +69,30 @@
 
 </br>
 
-
-
 ## ✨ Tools and Resources you will need for the total processes:
 
 <table style="width: 100%;">
   <tr>
     <td style="width: 60%; text-align: center; vertical-align: middle;">
       <div style="height: 100%; display: flex; justify-content: center; align-items: center;">
-        <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/c5f43596fc7642ba04969f3ac111f54c0e9e91b1/assets/images/App%20Inventor%20Tutorial%20(yourNeeds_V1).gif" alt="App Inventor Tools" width="100%" style="border-radius: 8px;">
+        <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/c5f43596fc7642ba04969f3ac111f54c0e9e91b1/assets/images/App%20Inventor%20Tutorial%20(yourNeeds_V1).gif" alt="App Inventor Tools" width="90%" style="border-radius: 8px;">
       </div>     
     </td>
     <td style="width: 40%; vertical-align: top;">
       <ul style="list-style-type: disc; padding-left: 20px; font-size: 14px;">
-        <li><strong style="color: #2E8B57;">💻 A Mac or Windows computer:</strong> The main environment for building your apps.</li>
-        <li><strong style="color: #2E8B57;">📱 Smartphone or Emulator:</strong> The device where your apps will be installed and perform.</li>
-        <li><strong style="color: #2E8B57;">🌐 A Wi-Fi connection:</strong> To use the platform and access necessary resources.</li>
-        <li><strong style="color: #2E8B57;">App Inventor Platform:</strong> The main environment for building your apps.</li>
-        <li><strong style="color: #2E8B57;">🔑 Google Account:</strong> Required to log into App Inventor.</li>
+        <li><strong style="color: #2E8B57;"> 💻 A Mac or Windows computer:</strong> The main environment for building your apps.</li>
+        <li><strong style="color: #2E8B57;"> 📱 Smartphone or Emulator:</strong> The device where your apps will be installed and perform.</li>
+        <li><strong style="color: #2E8B57;"> 🌐 A Wi-Fi connection:</strong> To use the platform and access necessary resources.</li>
+        <li><strong style="color: #2E8B57;"> App Inventor Platform:</strong> The main environment for building your apps.</li>
+        <li><strong style="color: #2E8B57;"> 🔑 Google Account:</strong> Required to log into App Inventor.</li>
       </ul>
     </td>
   </tr>
 </table>
 
-
 </br>
 
-<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
-
-
+---
 </br>
 
 ## **🔑 Keywords**
@@ -116,12 +103,9 @@
 
 <hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
 
-
 </br>
 
-
-<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
-
+---
 
 # **🛠️ How to Use App Inventor**
 
@@ -165,7 +149,7 @@ Follow this step-by-step guide to get started with **MIT App Inventor** and begi
 </br>
 </br>
 
-<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
+---
   
 </div>
 
@@ -173,14 +157,12 @@ Follow this step-by-step guide to get started with **MIT App Inventor** and begi
 </br>
 
 <div align="center" style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; width: 90%; margin: auto;">
-  <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/0a830db05b65f1597fcc663fab170637330cc454/assets/images/App%20Inventor%20Tutorial%20Banner_3a.gif" alt="Build your Game App within 5 Minutes" width="100%" style="border-radius: 8px;">
+  <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/0a830db05b65f1597fcc663fab170637330cc454/assets/images/App%20Inventor%20Tutorial%20Banner_3a.gif" alt="Build your Game App within 5 Minutes" width="90%" style="border-radius: 8px;">
 </div>
 
 </br>
 
 # 🌟 **Let's Make a Simple Game on MIT App Inventor** 🌟
-
-<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
 
 
 ## 1. Open a blank project
@@ -200,7 +182,7 @@ Follow this step-by-step guide to get started with **MIT App Inventor** and begi
    - Rename it to **MoleTimer**.
    - Enable the `Timer` and set `TimerInterval` to **500** ms.
 
-<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
+---
 
 ## 2. Add an ImageSprite
 1. **Add the Mole Image:**
@@ -237,7 +219,6 @@ Follow this step-by-step guide to get started with **MIT App Inventor** and begi
    - Attach a **join block** from **Text**.
      - First text: `Score: `.
      - Second text: `global score` from **Variables**.
-
 ---
 
 ## 5. Trigger MoveMole with Timer
@@ -273,9 +254,8 @@ Follow this step-by-step guide to get started with **MIT App Inventor** and begi
 
 </br>
 
-<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
-<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
-
+---
+---
 
 ## 🌟 **Advanced Tips and Enhancements** 🌟
 
@@ -308,8 +288,7 @@ Taking your Mole Mash game to the next level can be both fun and rewarding. Here
   - Pausing the game
   - Accessing a help menu
 
-<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
-
+---
 
 ### 4. Implement Power-Ups and Bonuses
 **Why:** Power-ups and bonuses add an extra layer of strategy and excitement to the game.
@@ -324,12 +303,9 @@ Taking your Mole Mash game to the next level can be both fun and rewarding. Here
 
 </br>
 
-
-<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
-<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
+---
 
 </br>
-
 
 ##  ✨ APP INVENTOR CONTROLS:
 
@@ -338,7 +314,7 @@ The first section called Palette includes all the objects and layout options you
 The central is the Viewer, that is the visual rendering of your phone screen. Close to the screen, you can see the Components window, where you will see all the objects you added to your screen. In the beginning, you will see just “Screen 1”.
 The last section on the left, Properties, regards all the options you can choose to change the attributes of the object you have included in your screen. For example, here are the options for changing your Screen1 attributes like background colour, background image, title, alignment.
 
-<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
+---
 
 </br>
 
@@ -348,7 +324,7 @@ The last section on the left, Properties, regards all the options you can choose
 - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
 - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
 
-<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
+---
 
 </br>
 
@@ -370,7 +346,7 @@ Explore these real-world projects to see how you can integrate hardware with **A
 ![App Inventor IoT Example](https://appinventor.mit.edu/assets/images/iot-ai2-example.png)  
 *IoT projects are a great way to learn hardware interfacing using App Inventor.*
 
-<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
+---
 
 </br>
 
