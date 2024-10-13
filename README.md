@@ -8,7 +8,7 @@
 </br>
 
 <div align="center" style="border: 2px solid #ddd; padding: 10px; border-radius: 10px; background-color: #f9f9f9; width: 90%; margin: auto;">
-<img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/5555f50582d89140fcc17434099b3ca2bc245d9e/assets/images/App%20Inventor%20Tutorial%20Banner_1c.gif" alt="Full Bridge Inverter Circuit Diagram" width="80%" style="border-radius: 8px;">
+<img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/5555f50582d89140fcc17434099b3ca2bc245d9e/assets/images/App%20Inventor%20Tutorial%20Banner_1c.gif" alt="Full Bridge Inverter Circuit Diagram" width="100%" style="border-radius: 8px;">
 </div>
 
 </br>
@@ -17,19 +17,30 @@
  
   <h3 style="margin-top: 20px;">MIT App Inventor is a great tool to introduce beginners to Android app programming. It is an open-source, cloud-based programming environment that allows you to make your own mobile apps using a Blocks-based Programming Language.</h3>
   
-</br>
-
-  <p style="background-color: #f9f9f9; color: black; padding: 10px; border-radius: 8px; margin-bottom: 20px; text-align: justify;">   
-    The App Inventor platform is developed by the Massachusetts Institute of Technology (MIT). It is composed of a <strong>DESIGNER</strong> section where you visually design your app layout and a <strong>BLOCKS</strong> section where you include the code to run your app.
-    
-  </p>
-  
 </div>
 
 </br>
 
+
+> [!IMPORTANT]
+> You access App Inventor using a web browser (Chrome, Firefox, Safari). With these beginner-friendly tutorials, you will learn the basics of programming apps for Android and iOS phones and tablets.
+> 
+</br>
+
 > [!NOTE]  
-> > You access App Inventor using a web browser (Chrome, Firefox, Safari). With these beginner-friendly tutorials, you will learn the basics of programming apps for Android and iOS phones and tablets.
+> 
+> > The App Inventor platform is developed by the Massachusetts Institute of Technology (MIT).
+> 
+> > It is composed of a <strong>DESIGNER</strong> section where you visually design your app layout and a <strong>BLOCKS</strong> section where you include the code to run your app.
+> > 
+</br>
+
+> [!WARNING]
+> This is a warning.
+
+</br>
+</br>
+
 
 <hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
 
@@ -37,21 +48,13 @@
 </br>
 
 
+
+
+
+
 | [![VideoBlocks](https://github.com/gmostofabd/App-Inventor-Examples/blob/8882c3e759920d3614b9913ab7a8fed8262e1af1/assets/images/AppInventorTutorial_4a.png)](http://videoblocks.com)  | [![AudioBlocks](https://github.com/gmostofabd/App-Inventor-Examples/blob/2906f05d2ecdd52938ff8c44883406cecefe3c24/assets/images/AppInventor_Banner_2a.png)](http://audioblocks.com) | [![GraphicStock](https://github.com/gmostofabd/App-Inventor-Examples/blob/8882c3e759920d3614b9913ab7a8fed8262e1af1/assets/images/AppInventorTutorial_4a.png)](http://graphicstock.com) |
 |:---:|:---:|:---:|
 | http://.com | http://.com | http://.com |
-
-
-
-
-
-
-
-
-
-  
-
-
 
 
 
@@ -78,12 +81,12 @@
 
 <table style="width: 100%;">
   <tr>
-    <td style="width: 40%; text-align: center; vertical-align: middle;">
+    <td style="width: 60%; text-align: center; vertical-align: middle;">
       <div style="height: 100%; display: flex; justify-content: center; align-items: center;">
-        <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/c5f43596fc7642ba04969f3ac111f54c0e9e91b1/assets/images/App%20Inventor%20Tutorial%20(yourNeeds_V1).gif" alt="App Inventor Tools" width="80%" style="border-radius: 8px;">
+        <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/c5f43596fc7642ba04969f3ac111f54c0e9e91b1/assets/images/App%20Inventor%20Tutorial%20(yourNeeds_V1).gif" alt="App Inventor Tools" width="100%" style="border-radius: 8px;">
       </div>     
     </td>
-    <td style="width: 60%; vertical-align: top;">
+    <td style="width: 40%; vertical-align: top;">
       <ul style="list-style-type: disc; padding-left: 20px; font-size: 14px;">
         <li><strong style="color: #2E8B57;">💻 A Mac or Windows computer:</strong> The main environment for building your apps.</li>
         <li><strong style="color: #2E8B57;">📱 Smartphone or Emulator:</strong> The device where your apps will be installed and perform.</li>
@@ -331,21 +334,6 @@ Taking your Mole Mash game to the next level can be both fun and rewarding. Here
 <hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
 
 
-
-
-## **🚀 Table of Contents**
-- [Introduction](#introduction)
-- [Features](#features)
-- [How to Use App Inventor](#how-to-use-app-inventor)
-  - [Step 1: Set Up MIT App Inventor](#step-1-set-up-mit-app-inventor)
-  - [Step 2: Create a New Project](#step-2-create-a-new-project)
-  - [Step 3: Design the User Interface (UI)](#step-3-design-the-user-interface-ui)
-  - [Step 4: Add Functionality with Blocks](#step-4-add-functionality-with-blocks)
-  - [Step 5: Connect Your Device](#step-5-connect-your-device)
-  - [Step 6: Build and Test the App](#step-6-build-and-test-the-app)
-- [Project Examples](#project-examples)
-- [Tags](#tags)
-
 <hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
 
 
@@ -356,28 +344,16 @@ Taking your Mole Mash game to the next level can be both fun and rewarding. Here
 >  -  MIT App Inventor has its roots in the collaborative efforts between Google and the Massachusetts Institute of Technology (MIT), with a goal of democratizing app development and making programming accessible to everyone, especially beginners. The journey of App Inventor has been shaped by several key milestones:
 
 ###  Early Development at Google (2009-2011)
->  -  Google Labs first introduced App Inventor in 2009 under the leadership of Hal Abelson, a renowned computer scientist and professor at MIT. Abelson was on sabbatical from MIT and aimed to create a platform that simplified app development, especially for those without a background in coding.
-Google App Inventor was launched in 2010 as an experimental tool, part of Google’s effort to provide a visual programming environment for Android app development. The platform was initially available to a limited audience but quickly gained popularity due to its simplicity and effectiveness.
 
 ###  Transition to MIT (2011-2012)
->  -  In 2011, Google announced it would no longer maintain App Inventor, but it donated the source code to MIT. Recognizing its educational potential, MIT took over the project and established the MIT Center for Mobile Learning, under its Media Lab, to continue its development.
-In 2012, MIT launched the MIT App Inventor 2 platform. It was a more advanced, cloud-based version of the original App Inventor, allowing users to create, save, and share their apps online.
 
 ###  Advancements and Growth (2013-present)
->  -  After its release as MIT App Inventor 2, the platform continued to evolve, gaining support for features such as real-time testing, data storage, and connectivity to external devices like sensors, cameras, and other hardware.
-App Inventor has become widely used in schools, universities, and educational programs around the world, teaching students the fundamentals of coding, app design, and problem-solving.
-
-By 2017, the platform had over 6 million users from 195 countries and had seen the creation of over 23 million apps. It has become a go-to tool for introducing programming in educational settings, particularly for younger students.
 
 ###  Impact on Education
->  -  App Inventor has been pivotal in promoting computational thinking and encouraging more students, including those from traditionally underrepresented groups in technology, to engage in STEM education. It is especially popular in middle and high schools, where it is used to teach students the basics of programming through real-world projects.
 
 ###  Present and Future
->  -  Today, App Inventor continues to expand, supporting advanced features like IoT (Internet of Things) development, artificial intelligence (AI) integrations, and cloud services. MIT remains committed to making app development an accessible, creative, and enjoyable process for learners of all ages.
-
 
 <hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
-
 
 </br>
 
@@ -389,39 +365,19 @@ The first section called Palette includes all the objects and layout options you
 The central is the Viewer, that is the visual rendering of your phone screen. Close to the screen, you can see the Components window, where you will see all the objects you added to your screen. In the beginning, you will see just “Screen 1”.
 The last section on the left, Properties, regards all the options you can choose to change the attributes of the object you have included in your screen. For example, here are the options for changing your Screen1 attributes like background colour, background image, title, alignment.
 
----
-
-You can download the project here.
-
+<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
 
 </br>
 
-
-
 ### Basic styling {#basic-styling}
 
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#exr`
 - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
 - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
 
+<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
 
-
-<div align="center">
-
-[![CI](https://github.com/fastify/fastify/workflows/ci/badge.svg)](https://github.com/fastify/fastify/actions/workflows/ci.yml)
-[![Package Manager CI](https://github.com/fastify/fastify/workflows/package-manager-ci/badge.svg)](https://github.com/fastify/fastify/actions/workflows/package-manager-ci.yml)
-[![Web SIte](https://github.com/fastify/fastify/workflows/website/badge.svg)](https://github.com/fastify/fastify/actions/workflows/website.yml)
-[![Known Vulnerabilities](https://snyk.io/test/github/fastify/fastify/badge.svg)](https://snyk.io/test/github/fastify/fastify)
-[![Coverage Status](https://coveralls.io/repos/github/fastify/fastify/badge.svg?branch=main)](https://coveralls.io/github/fastify/fastify?branch=main)
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://standardjs.com/)
-
-</div>
-
-
-
-
-
-
+</br>
 
 
 
@@ -441,10 +397,9 @@ Explore these real-world projects to see how you can integrate hardware with **A
 ![App Inventor IoT Example](https://appinventor.mit.edu/assets/images/iot-ai2-example.png)  
 *IoT projects are a great way to learn hardware interfacing using App Inventor.*
 
----
+<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
 
 </br>
-
 
 
 ## **📚 Tutorial References**
@@ -467,7 +422,7 @@ Explore these real-world projects to see how you can integrate hardware with **A
 
 - [Advanced Features in MIT App Inventor](https://appinventor.mit.edu/explore/ai2/tutorials/advanced/)  *Explore advanced functionalities to enhance your applications.*
 
----
+<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
 
 </br>
 
@@ -499,5 +454,21 @@ More App Inventor Tutorials for Beginners
 <br/>
 <br/>
 
----
+<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
 
+</br>
+
+A list of things:
+- [X] Googley Eyes
+- [X] Tesco Clubcard
+- [ ] The Elizibeth Line
+- [ ] Beans on Toast
+- [ ] My Current Account
+
+
+<details>
+    <summary>Collapsable Title</summary>
+    <p>Put Content Here</p>
+</details>
+
+[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api)](https://github.com/cheehwatang/github-readme-daily-quotes)
