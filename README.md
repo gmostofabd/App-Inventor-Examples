@@ -153,6 +153,12 @@ Follow this step-by-step guide to get started with **MIT App Inventor** and begi
   
 </div>
 
+
+
+<div align="center" style="border: 2px solid #ddd; padding: 10px; border-radius: 10px; background-color: #f9f9f9; width: 90%; margin: auto;">
+<img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/2c3623c0c27093e8f6d12577e83b93b26110d8d2/assets/images/App%20Inventor%20Tutorial%20Banner_becomeAppInventor1c.gif" alt="Learn how to build mobile apps using App Inventor" width="90%" style="border-radius: 8px;">
+</div>
+
 </br>
 </br>
 
