@@ -428,3 +428,16 @@ A list of things:
 
 <hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
 <hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
+
+
+
+<p align="left">
+  This is some text that will flow around the image to the right. You can write paragraphs of text here, and it will wrap around the image. The image is floated to the right, so this text will automatically adjust itself alongside it.
+</p>
+
+<img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/b17d63de08a42618e3740c9a012aa9264510f0b2/assets/images/5960185.png" align="right" width="200" alt="description of image">
+
+<p align="left">
+  More text that continues to wrap around the image on the right side. You can write as much as you'd like, and it will keep flowing next to the image.
+</p>
+
