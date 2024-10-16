@@ -156,24 +156,17 @@ Follow this step-by-step guide to get started with **MIT App Inventor** and begi
 
 
 <div align="center" style="border: 2px solid #ddd; padding: 10px; border-radius: 10px; background-color: #f9f9f9; width: 90%; margin: auto;">
-<img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/9172ad3589fb9d8217efce7dfa97e07f3e87dad0/assets/images/pro1.jpg" alt="Learn how to build mobile apps using App Inventor" width="90%" style="border-radius: 8px;">
+<img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/4764ab0a50dc369723f92aade1985cf8b15c1f2b/assets/images/App%20Inventor%20Tutorial%20Banner_yourNeeds_1(10).gif" alt="Learn how to build mobile apps using App Inventor" width="90%" style="border-radius: 8px;">
 </div>
 
 
 
 
-<div align="center" style="border: 2px solid #ddd; padding: 10px; border-radius: 10px; background-color: #f9f9f9; width: 90%; margin: auto;">
-<img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/2c3623c0c27093e8f6d12577e83b93b26110d8d2/assets/images/App%20Inventor%20Tutorial%20Banner_becomeAppInventor1c.gif" alt="Learn how to build mobile apps using App Inventor" width="90%" style="border-radius: 8px;">
-</div>
+
 
 </br>
 </br>
 
-<div align="center" style="border: 2px solid #ddd; padding: 20px; border-radius: 10px; background-color: #f9f9f9; width: 90%; margin: auto;">
-  <img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/0a830db05b65f1597fcc663fab170637330cc454/assets/images/App%20Inventor%20Tutorial%20Banner_3a.gif" alt="Build your Game App within 5 Minutes" width="90%" style="border-radius: 8px;">
-</div>
-
-</br>
 
 # 🌟 **Let's Make a Simple Game on MIT App Inventor** 🌟
 
