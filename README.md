@@ -50,6 +50,20 @@
 
 </br>
 
+
+</br>
+
+<div align="center" style="border: 2px solid #ddd; padding: 10px; border-radius: 10px; background-color: #f9f9f9; width: 90%; margin: auto;">
+<img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/35d6596ff4f7395b0999024129fd660c7c2f74c8/assets/images/App%20Inventor%20Tutorial%20Banner%20(1_2_3)a.gif" alt="Learn how to build mobile apps using App Inventor" width="100%" style="border-radius: 8px;">
+</div>
+
+</br>
+
+
+
+
+
+
 ---
 
 ## **✨ App Inventor Features**
