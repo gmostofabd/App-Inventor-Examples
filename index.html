@@ -67,6 +67,48 @@
             margin: 20px auto;
             border-radius: 8px; /* Rounded corners for images */
         }
+
+        .quote-section {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background: linear-gradient(to bottom right, #e0f7fa, #ffecb3);
+            color: #333;
+            padding: 40px;
+            text-align: center;
+        }
+        .quote-box {
+            max-width: 800px;
+            background: rgba(255, 255, 255, 0.8);
+            padding: 20px 40px;
+            border-radius: 10px;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+        }
+        .quote-box p {
+            font-size: 24px;
+            font-style: italic;
+            line-height: 1.6;
+            margin: 0;
+        }
+        .quote-box .author {
+            margin-top: 20px;
+            font-size: 18px;
+            font-weight: bold;
+            color: #555;
+        }
+        .quote-mark {
+            font-size: 60px;
+            color: #ff8a65;
+            position: relative;
+            top: 10px;
+        }
+
+
+
+
+
+        
         footer {
             text-align: center;
             padding: 10px 0;
@@ -177,6 +219,15 @@ table .top-cell {
             <li><a href="#contacts">Contacts</a></li>
         </ul>
     </nav>
+
+
+        <section class="quote-section">
+        <div class="quote-box">
+            <span class="quote-mark">“</span>
+            <p>Art enables us to find ourselves and lose ourselves at the same time.</p>
+            <div class="author">— Thomas Merton</div>
+        </div>
+    </section>
     
     <div class="container">
         <div class="main-content">
@@ -273,7 +324,16 @@ table .top-cell {
     </div>
 
 
- 
+ <p align="left">
+  This is some text that will flow around the image to the right. You can write paragraphs of text here, and it will wrap around the image. The image is floated to the right, so this text will automatically adjust itself alongside it.
+</p>
+
+<img src="https://github.com/gmostofabd/App-Inventor-Examples/blob/5c0aab1817f7c8e7778bb045d03055ebd815ad76/assets/images/AppInventorTutorial.png?raw=true" align="right" width="200" alt="description of image">
+
+<p align="left">
+  More text that continues to wrap around the image on the right side. You can write as much as you'd like, and it will keep flowing next to the image.
+</p>
+
 
 
 
