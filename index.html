@@ -67,6 +67,48 @@
             margin: 20px auto;
             border-radius: 8px; /* Rounded corners for images */
         }
+
+        .quote-section {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background: linear-gradient(to bottom right, #e0f7fa, #ffecb3);
+            color: #333;
+            padding: 40px;
+            text-align: center;
+        }
+        .quote-box {
+            max-width: 800px;
+            background: rgba(255, 255, 255, 0.8);
+            padding: 20px 40px;
+            border-radius: 10px;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+        }
+        .quote-box p {
+            font-size: 24px;
+            font-style: italic;
+            line-height: 1.6;
+            margin: 0;
+        }
+        .quote-box .author {
+            margin-top: 20px;
+            font-size: 18px;
+            font-weight: bold;
+            color: #555;
+        }
+        .quote-mark {
+            font-size: 60px;
+            color: #ff8a65;
+            position: relative;
+            top: 10px;
+        }
+
+
+
+
+
+        
         footer {
             text-align: center;
             padding: 10px 0;
@@ -177,6 +219,15 @@ table .top-cell {
             <li><a href="#contacts">Contacts</a></li>
         </ul>
     </nav>
+
+
+        <section class="quote-section">
+        <div class="quote-box">
+            <span class="quote-mark">“</span>
+            <p>Art enables us to find ourselves and lose ourselves at the same time.</p>
+            <div class="author">— Thomas Merton</div>
+        </div>
+    </section>
     
     <div class="container">
         <div class="main-content">
