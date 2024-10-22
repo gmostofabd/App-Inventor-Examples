@@ -68,43 +68,6 @@ float:left;
 
 
 
-        nav {
-            background: #35424a;
-            color: #ffffff;
-            padding: 10px;
-        }
-        nav ul {
-            list-style: none;
-            padding: 0;
-            text-align: right; /* Align menu tabs to the right */
-        }
-        nav ul li {
-            display: inline;
-            margin-right: 20px;
-        }
-        nav ul li a {
-            color: #ffffff;
-            text-decoration: none;
-        }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 #navigation {
 width:150px;
@@ -147,6 +110,15 @@ padding:0;
 float:left;
 }
 
+
+
+
+
+
+
+
+
+
 .photocontainer {
 width:130px;
 height:100px;
@@ -178,9 +150,7 @@ border: 1px solid #666666;
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
-        h1, h2, h3, h4 {
-            color: #35424a;
-        }
+   
         img {
             max-width: 100%;
             height: auto;
@@ -244,7 +214,16 @@ border: 1px solid #666666;
             border-radius: 8px;
             background-color: #e0f7fa; /* Light cyan background */
         }
-        /* Colored containers for different sections */
+       
+
+
+
+
+
+
+
+
+/* Colored containers for different sections */
         .section {
             margin: 20px 0;
             padding: 20px;
@@ -337,10 +316,5 @@ text-align:center;
 font: 10px tahoma, Lucida Grande, Verdana, Sans-Serif;
 clear:both;
 border-top:2px solid #FFEA00;
-}
-
-#footer a {
-color:#fff;
-border-bottom:1px dotted #fff;
 }
 
