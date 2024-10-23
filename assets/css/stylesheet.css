@@ -59,7 +59,7 @@ width:800px;
 #left_box {
 margin-top:10px;
 padding-top:5px;
-width:100px;
+width:30%;
 margin-left:10px;
 padding-bottom:5px;
 float:left;
@@ -94,7 +94,7 @@ font-weight:bold;
 }
 
 #right_box {
-width:600px;
+width:60%;
 float:right;
     border: 1px solid #000;
 }
