@@ -120,21 +120,22 @@ font-weight:bold;
 
 
 
-
-        #container {
-            display: flex;
-            max-width: 800px;
-            margin-left:auto;
-            margin-right:auto;
-            background: #ffffff;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-
-#content {
-width:800px;
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 20px;
+    max-width: 1200px;
+    margin: auto;
 }
-
+        #content {
+            flex: 1 1 300px; /* Allow for flexible growth/shrink */
+            min-width: 250px; /* Minimum width for content */
+            padding: 10px;
+            background: white;
+            margin:5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
 
 
 
@@ -162,67 +163,103 @@ font-weight:bold;
 
 
 
-
-
-
-
-
-
-
 #left_box {
-margin-top:5px;
-padding-top:10px;
-width:25%;
-margin-left:20px;
-padding-bottom:10px;
-float:left;
-    border: 1px solid #000;
+    flex: 1;
+    padding: 20px;
+    background-color: #ffffff;
+    margin-right: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 #right_box {
-width:550px;
-float:right;
-    border: 1px solid #000;
+    flex: 1;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
-#thumbnails {
-list-style-type: none;
-margin:0;
-padding:0;
-float:left;
+ul#thumbnails {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
 }
 
-#thumbnails li {
-margin:0;
-padding:0;
-float:left;
+ul#thumbnails li {
+    flex-basis: 30%;
 }
 
 .photocontainer {
-width:130px;
-height:100px;
-margin:10px 10px 10px 10px;
-background-color: #fff;
-border: 1px solid #000;
-float:left;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
+
 .photo {
-position:relative;
-width:120px;
-height:90px;
-top:4px;
-left:4px;
-border: 1px solid #666666;
+    width: 100%;
+    border-radius: 5px;
 }
+
+
+
+
+
+
+
+
+/* Responsive Layout */
+@media screen and (max-width: 768px) {
+    #container {
+        flex-direction: column;
+    }
+
+    #left_box, #right_box {
+        margin: 0 0 20px;
+        flex-basis: 100%;
+    }
+
+    ul#thumbnails li {
+        flex-basis: 48%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    ul#thumbnails li {
+        flex-basis: 100%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 
         .main-content {
-            flex: 0 0 70%;
-            margin-right: 20px;
+            flex: 0 0 80%;
+            margin-right: 10px;
         }
-        .latest-news {
+
+
+.latest-news {
             flex: 0 0 30%;
             padding: 10px;
             background: #f9f9f9;
