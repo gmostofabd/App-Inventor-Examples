@@ -253,12 +253,6 @@ ul#thumbnails li {
 
 
 
-        .main-content {
-            flex: 0 0 80%;
-            margin-right: 10px;
-        }
-
-
 .latest-news {
             flex: 0 0 30%;
             padding: 10px;
@@ -335,6 +329,12 @@ ul#thumbnails li {
 
 
 
+        .main-content {
+            flex: 0 0 80%;
+            margin-right: 10px;
+        }
+
+
 
 
 
@@ -383,7 +383,7 @@ ul#thumbnails li {
 
 
 
-table {
+.table {
   width: 400px;
 }
 
