@@ -5,8 +5,8 @@ html, body {
     padding: 0;
     background-color: #2d2d2d; 
 
-    /* background-image: url('assets/images/background.jpg'); */
-     background-image: url('https://github.com/gmostofabd/Proteus-Circuits-to-PCB/raw/7f712b753e3fd3b56dd4707e88cddfbd2934b5ee/assets/images/background.jpg');
+     background-image: url('assets/images/background.jpg'); 
+     /*background-image: url('https://github.com/gmostofabd/Proteus-Circuits-to-PCB/raw/7f712b753e3fd3b56dd4707e88cddfbd2934b5ee/assets/images/background.jpg');*/
 
     background-repeat: repeat-x;
     background-size: cover; /* Optional: Adjust if needed */
