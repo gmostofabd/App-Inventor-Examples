@@ -37,7 +37,7 @@ padding: 40px 0 0 70px;
 }
 
 h2 {
-font: 28px tahoma, Lucida Grande, Verdana, Sans-Serif;
+font: 24px tahoma, Lucida Grande, Verdana, Sans-Serif;
 color:white;
 font-weight:bold;
 }
@@ -101,7 +101,7 @@ float:left;
 }
 
 #right_box {
-width:70%;
+width:450px;
 float:right;
     border: 1px solid #000;
 }
