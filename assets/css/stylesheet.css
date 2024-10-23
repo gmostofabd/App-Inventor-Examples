@@ -120,17 +120,17 @@ float:left;
 
 
 .photocontainer {
-width:130px;
-height:100px;
-margin:10px 10px 10px 10px;
+width:100px;
+height:70px;
+margin:10px;
 background-color: #fff;
 border: 1px solid #000;
 float:left;
 }
 .photo {
 position:relative;
-width:120px;
-height:90px;
+width:90px;
+height:60px;
 top:4px;
 left:4px;
 border: 1px solid #666666;
