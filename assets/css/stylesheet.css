@@ -1,5 +1,5 @@
 html, body {
-    font: 11px Tahoma, "Lucida Grande", Verdana, Sans-Serif;
+    font: 14px Tahoma, "Lucida Grande", Verdana, Sans-Serif;
     color: white;
     margin: 0;
     padding: 0;
@@ -37,7 +37,7 @@ padding: 40px 0 0 70px;
 }
 
 h2 {
-font: 11px tahoma, Lucida Grande, Verdana, Sans-Serif;
+font: 28px tahoma, Lucida Grande, Verdana, Sans-Serif;
 color:white;
 font-weight:bold;
 }
