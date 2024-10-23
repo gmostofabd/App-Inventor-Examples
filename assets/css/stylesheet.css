@@ -59,7 +59,7 @@ width:800px;
 #left_box {
 margin-top:10px;
 padding-top:5px;
-width:30%;
+width:25%;
 margin-left:10px;
 padding-bottom:5px;
 float:left;
@@ -94,7 +94,7 @@ font-weight:bold;
 }
 
 #right_box {
-width:60%;
+width:70%;
 float:right;
     border: 1px solid #000;
 }
@@ -122,17 +122,17 @@ float:left;
 
 
 .photocontainer {
-width:90px;
-height:70px;
-margin:5px;
+width:130px;
+height:100px;
+margin:10px;
 background-color: #fff;
 border: 1px solid #000;
 float:left;
 }
 .photo {
 position:relative;
-width:80px;
-height:60px;
+width:120px;
+height:90px;
 top:4px;
 left:4px;
 border: 1px solid #666666;
