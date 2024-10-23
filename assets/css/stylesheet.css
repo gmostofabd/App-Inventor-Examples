@@ -58,11 +58,12 @@ width:800px;
 
 #left_box {
 margin-top:10px;
-padding-top:10px;
+padding-top:5px;
 width:100px;
 margin-left:10px;
-padding-bottom:10px;
+padding-bottom:5px;
 float:left;
+    border: 1px solid #000;
 }
 
 
@@ -75,7 +76,7 @@ float:left;
 }
 
 #navigation p{
-padding:15px 0 0 35px;
+padding:10px 0 0 35px;
 }
 
 #navigation ul {
@@ -93,8 +94,9 @@ font-weight:bold;
 }
 
 #right_box {
-width:500px;
+width:600px;
 float:right;
+    border: 1px solid #000;
 }
 
 #thumbnails {
@@ -122,7 +124,7 @@ float:left;
 .photocontainer {
 width:90px;
 height:70px;
-margin:10px;
+margin:5px;
 background-color: #fff;
 border: 1px solid #000;
 float:left;
