@@ -57,10 +57,10 @@ width:800px;
 }
 
 #left_box {
-margin-top:5px;
+margin-top:10px;
 padding-top:10px;
-width:250px;
-margin-left:20px;
+width:100px;
+margin-left:10px;
 padding-bottom:10px;
 float:left;
 }
@@ -93,7 +93,7 @@ font-weight:bold;
 }
 
 #right_box {
-width:350px;
+width:500px;
 float:right;
 }
 
