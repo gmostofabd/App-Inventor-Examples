@@ -517,10 +517,217 @@
         </div>
         
         <div class="latest-news">
-            <h2>📰 Latest News</h2>
-            <div class="news-item">
-                <h3>New Course Launch!</h3>
-                <p>We are excited to announce a new course on IoT projects using App Inventor, launching next month!</p>
+           <h1>🌟 <strong>Let's Make a Simple Game on MIT App Inventor</strong> 🌟</h1>
+
+<h2>1. Open a blank project</h2>
+<ol>
+  <li><strong>Start a New Project:</strong> Create a new blank project.</li>
+  <li><strong>Add Canvas:</strong>
+    <ul>
+      <li>Go to <strong>Drawing and Animation</strong> and drag a <code>Canvas</code> element.</li>
+      <li>Rename it to <strong>MyCanvas</strong>.</li>
+      <li>Set its dimensions to <code>300x300</code>.</li>
+    </ul>
+  </li>
+  <li><strong>Add Score Label:</strong>
+    <ul>
+      <li>Drag a <strong>Label</strong> from <strong>User Interface</strong>.</li>
+      <li>Rename it to <strong>ScoreLabel</strong> and set its text to <code>Score: ---</code>.</li>
+    </ul>
+  </li>
+  <li><strong>Add Reset Button:</strong>
+    <ul>
+      <li>Drag a <strong>Button</strong> from <strong>User Interface</strong>.</li>
+      <li>Rename it to <strong>ResetButton</strong> and set its text to <code>Reset</code>.</li>
+    </ul>
+  </li>
+  <li><strong>Add Timer:</strong>
+    <ul>
+      <li>From <strong>Sensors</strong>, drag a <code>Clock</code> element to the screen.</li>
+      <li>Rename it to <strong>MoleTimer</strong>.</li>
+      <li>Enable the <code>Timer</code> and set <code>TimerInterval</code> to <strong>500</strong> ms.</li>
+    </ul>
+  </li>
+</ol>
+
+<hr/>
+
+<h2>2. Add an ImageSprite</h2>
+<ol>
+  <li><strong>Add the Mole Image:</strong>
+    <ul>
+      <li>From <strong>Drawing and Animation</strong>, drag an <code>ImageSprite</code> to the <strong>MyCanvas</strong> element.</li>
+      <li>Download and use a <strong>mole image</strong> for the sprite.</li>
+    </ul>
+  </li>
+  <li><strong>Set Properties:</strong>
+    <ul>
+      <li>Ensure <code>Enabled</code> and <code>Visible</code> options are checked.</li>
+      <li>Set <code>Width</code> and <code>Height</code> to <code>automatic</code>.</li>
+      <li>Set <code>Speed</code> to <strong>0.0</strong>.</li>
+    </ul>
+  </li>
+</ol>
+
+<hr/>
+
+<h2>3. Move the Mole</h2>
+<ol>
+  <li><strong>Create MoveMole Procedure:</strong>
+    <ul>
+      <li>Switch to the <strong>Blocks</strong> screen.</li>
+      <li>From <strong>Procedures</strong>, drag out a <code>procedure</code> block and name it <strong>MoveMole</strong>.</li>
+    </ul>
+  </li>
+  <li><strong>Set Mole X-Position:</strong>
+    <ul>
+      <li>Drag a <code>set Mole.X</code> block.</li>
+      <li>Attach a <strong>multiplication block</strong> from <strong>Math</strong> and use a <strong>random fraction block</strong> for the first value.</li>
+      <li>For the second value, use a <strong>subtraction block</strong>.
+        <ul>
+          <li>Left side: <code>MyCanvas.Width</code></li>
+          <li>Right side: <code>Mole.Width</code></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Set Mole Y-Position:</strong>
+    <ul>
+      <li>Repeat the above steps for the Y-position but use <code>MyCanvas.Height</code> and <code>Mole.Height</code>.</li>
+    </ul>
+  </li>
+</ol>
+
+<hr/>
+
+<h2>4. Create UpdateScore Procedure</h2>
+<ol>
+  <li><strong>Initialize Score Variable:</strong>
+    <ul>
+      <li>In the <strong>Variables</strong> tab, create an <code>initialize global</code> block for <strong>score</strong> and set its value to <strong>0</strong>.</li>
+    </ul>
+  </li>
+  <li><strong>Set Score Label Text:</strong>
+    <ul>
+      <li>Create a new <strong>procedure</strong> named <strong>UpdateScore</strong>.</li>
+      <li>Use the <code>set ScoreLabel.Text</code> block.</li>
+      <li>Attach a <strong>join block</strong> from <strong>Text</strong>.
+        <ul>
+          <li>First text: <code>Score: </code></li>
+          <li>Second text: <code>global score</code> from <strong>Variables</strong>.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ol>
+
+<hr/>
+
+<h2>5. Trigger MoveMole with Timer</h2>
+<ol>
+  <li><strong>Use Timer Event:</strong>
+    <ul>
+      <li>Get the <code>when MoleTimer.Timer</code> block.</li>
+      <li>Inside it, call the <strong>MoveMole</strong> procedure.</li>
+    </ul>
+  </li>
+</ol>
+
+<hr/>
+
+<h2>6. Update the Score on Mole Touch</h2>
+<ol>
+  <li><strong>Set Up Mole Touched Event:</strong>
+    <ul>
+      <li>Get the <code>when Mole.Touched x y</code> block.</li>
+    </ul>
+  </li>
+  <li><strong>Increment Score:</strong>
+    <ul>
+      <li>Drag the <code>set global score</code> block.</li>
+      <li>Attach it to a <strong>Math addition block</strong>.
+        <ul>
+          <li>Add <code>get global score</code> from <strong>Variables</strong> and <code>1</code>.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Call Procedures:</strong>
+    <ul>
+      <li>After incrementing the score, call the <strong>UpdateScore</strong> and <strong>MoveMole</strong> procedures.</li>
+    </ul>
+  </li>
+</ol>
+
+<hr/>
+
+<h2>7. Make the Reset Button Work</h2>
+<ol>
+  <li><strong>Set Up Reset Button Click Event:</strong>
+    <ul>
+      <li>Get the <code>when ResetButton.Click</code> block.</li>
+    </ul>
+  </li>
+  <li><strong>Reset Score:</strong>
+    <ul>
+      <li>Set <code>global score</code> to <strong>0</strong> using a <strong>Math number block</strong>.</li>
+    </ul>
+  </li>
+  <li><strong>Call UpdateScore:</strong>
+    <ul>
+      <li>Call the <strong>UpdateScore</strong> procedure.</li>
+    </ul>
+  </li>
+</ol>
+
+<h1>🎮 <strong>Congratulations! You've created a simple game using MIT App Inventor!</strong> 🎮</h1>
+
+<br/>
+
+<hr/>
+
+<h2>🌟 <strong>Advanced Tips and Enhancements</strong> 🌟</h2>
+<p>Taking your Mole Mash game to the next level can be both fun and rewarding. Here are some advanced tips and enhancements to make your game even more exciting:</p>
+
+<h3>1. Save the Game State</h3>
+<p><strong>Why:</strong> Saving the game state allows players to resume their progress the next time they play. This is particularly useful for tracking high scores or other persistent game data.</p>
+<p><strong>How to Do It:</strong></p>
+<ul>
+  <li>Use <strong>TinyDB</strong>, a database component in MIT App Inventor, to save and retrieve the score.</li>
+</ul>
+
+<h3>2. Add Sound Effects and Music</h3>
+<p><strong>Why:</strong> Sound effects and music make the game more immersive and engaging.</p>
+<p><strong>How to Do It:</strong></p>
+<ul>
+  <li>Use the <strong>Sound</strong> component in MIT App Inventor to add sound effects and background music.</li>
+</ul>
+
+<h3>3. Create Interactive Elements</h3>
+<p><strong>Why:</strong> Interactive elements enhance gameplay and make it more enjoyable.</p>
+<p><strong>How to Do It:</strong></p>
+<ul>
+  <li>Add buttons or interactive objects that players can click to perform actions, such as:
+    <ul>
+      <li>Starting a new game</li>
+      <li>Pausing the game</li>
+      <li>Accessing a help menu</li>
+    </ul>
+  </li>
+</ul>
+
+<h3>4. Implement Power-Ups and Bonuses</h3>
+<p><strong>Why:</strong> Power-ups and bonuses add an extra layer of strategy and excitement to the game.</p>
+<p><strong>How to Do It:</strong></p>
+<ul>
+  <li>Create additional <strong>ImageSprites</strong> for power-ups.</li>
+  <li>Use <strong>conditional statements</strong> to check if the player has collected a power-up and apply its effects.</li>
+</ul>
+
+<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
+
+<p><strong>🚀 With these advanced tips, your Mole Mash game will be more engaging and fun! Enjoy enhancing your game!</strong></p>
+
             </div>
 
  </div>
