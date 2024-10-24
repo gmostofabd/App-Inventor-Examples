@@ -139,8 +139,6 @@ font-weight:bold;
 
 
 
-        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
-
         .nav-container {
             display: flex;
             justify-content: space-around;
@@ -151,7 +149,7 @@ font-weight:bold;
         .nav-button {
             background-color: #FF6F61;
             color: white;
-            padding: 10px 20px;
+            padding: 0 20px;
             margin: 10px;
             text-decoration: none;
             font-size: 16px;
@@ -159,9 +157,10 @@ font-weight:bold;
             border-radius: 50px;
             transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
             box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-            flex: 1 1 150px;
             text-align: center;
-            max-height: 50px; /* Limit button height */
+            flex: 1 1 150px;
+            height: 40px; /* Explicit height */
+            line-height: 40px; /* Centers text vertically */
         }
 
         .nav-button:hover {
@@ -195,23 +194,20 @@ font-weight:bold;
             .nav-button {
                 width: 100%;
                 margin: 10px 0;
-                padding: 8px 16px;  /* Reduce padding for smaller screens */
-                max-height: 45px;  /* Limit button height on medium screens */
+                font-size: 14px;
+                height: 35px; /* Smaller height for smaller screens */
+                line-height: 35px; /* Adjust vertical alignment */
             }
         }
 
         @media (max-width: 480px) {
             .nav-button {
-                font-size: 14px;
-                padding: 6px 12px; /* Further reduce padding for smaller screens */
-                max-height: 40px; /* Limit button height on small screens */
+                font-size: 13px;
+                padding: 0 10px; /* Reduce padding for smaller screens */
+                height: 30px; /* Further reduce height */
+                line-height: 30px; /* Align text properly */
             }
         }
-
-
-
-
-
 
 
 
