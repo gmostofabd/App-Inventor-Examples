@@ -140,6 +140,67 @@ font-weight:bold;
 
 
 
+        .nav-container {
+            display: flex;
+            justify-content: space-around;
+            width: 80%;
+        }
+
+        .nav-button {
+            background-color: #007bff;
+            color: white;
+            padding: 15px 25px;
+            margin: 0 10px;
+            text-decoration: none;
+            font-size: 18px;
+            font-weight: bold;
+            border-radius: 8px;
+            transition: background-color 0.3s, transform 0.3s;
+        }
+
+        .nav-button:hover {
+            background-color: #0056b3;
+            transform: translateY(-5px);
+        }
+
+        .nav-button:active {
+            transform: translateY(2px);
+        }
+
+        /* Style for inactive button */
+        .inactive {
+            background-color: #cccccc;
+            cursor: default;
+        }
+
+        .inactive:hover {
+            background-color: #cccccc;
+            transform: none;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #navigation {
 width:150px;
