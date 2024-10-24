@@ -141,27 +141,31 @@ font-weight:bold;
 
         @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 
-                .nav-container {
+        .nav-container {
             display: flex;
             justify-content: space-around;
             width: 80%;
+            flex-wrap: wrap;
         }
 
         .nav-button {
-            background-color: #007bff;
+            background-color: #FF6F61;
             color: white;
-            padding: 15px 25px;
-            margin: 0 10px;
+            padding: 10px 20px;
+            margin: 10px;
             text-decoration: none;
-            font-size: 18px;
-            font-weight: bold;
-            border-radius: 8px;
-            transition: background-color 0.3s, transform 0.3s;
+            font-size: 16px;
+            font-weight: 500;
+            border-radius: 50px;
+            transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+            flex: 1 1 150px;
+            text-align: center;
         }
 
         .nav-button:hover {
-            background-color: #0056b3;
-            transform: translateY(-5px);
+            background-color: #ff4a3d;
+            transform: translateY(-3px);
         }
 
         .nav-button:active {
@@ -170,14 +174,16 @@ font-weight:bold;
 
         /* Style for inactive button */
         .inactive {
-            background-color: #cccccc;
+            background-color: #b0b0b0;
             cursor: default;
+            box-shadow: none;
         }
 
         .inactive:hover {
-            background-color: #cccccc;
+            background-color: #b0b0b0;
             transform: none;
         }
+
         @media (max-width: 768px) {
             .nav-container {
                 width: 90%;
@@ -197,7 +203,6 @@ font-weight:bold;
                 padding: 8px 16px;
             }
         }
-
 
 
 
