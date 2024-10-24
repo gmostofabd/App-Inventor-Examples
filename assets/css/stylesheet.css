@@ -161,6 +161,7 @@ font-weight:bold;
             box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
             flex: 1 1 150px;
             text-align: center;
+            max-height: 50px; /* Limit button height */
         }
 
         .nav-button:hover {
@@ -194,17 +195,18 @@ font-weight:bold;
             .nav-button {
                 width: 100%;
                 margin: 10px 0;
+                padding: 8px 16px;  /* Reduce padding for smaller screens */
+                max-height: 45px;  /* Limit button height on medium screens */
             }
         }
 
         @media (max-width: 480px) {
             .nav-button {
                 font-size: 14px;
-                padding: 8px 16px;
+                padding: 6px 12px; /* Further reduce padding for smaller screens */
+                max-height: 40px; /* Limit button height on small screens */
             }
         }
-
-
 
 
 
