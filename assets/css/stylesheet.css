@@ -140,7 +140,7 @@ font-weight:bold;
 
 
 
-        .nav-container {
+                .nav-container {
             display: flex;
             justify-content: space-around;
             width: 80%;
@@ -177,7 +177,6 @@ font-weight:bold;
             background-color: #cccccc;
             transform: none;
         }
-
 
 
 
