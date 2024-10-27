@@ -37,22 +37,3 @@ html, body {
 
 
 
-
-/* Override button style on the home page */
-.button {
-  background-color: red;
-}
-
-/* Home page banner styling */
-.home-banner {
-  background-color: #4CAF50;
-  color: white;
-  padding: 50px;
-  text-align: center;
-}
-
-/* Style for an introductory section */
-.intro-text {
-  font-size: 1.5em;
-  margin-bottom: 20px;
-}
