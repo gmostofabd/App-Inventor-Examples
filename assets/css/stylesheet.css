@@ -337,49 +337,6 @@ ul#thumbnails li {
 
 
 
-/* Colored containers for different sections */
-        .section {
-            margin: 20px 0;
-            padding: 20px;
-            border-radius: 8px;
-        }
-        .about {
-            background-color: #ffe0b2; /* Light orange */
-        }
-        .courses {
-            background-color: #c8e6c9; /* Light green */
-        }
-        .projects {
-            background-color: #bbdefb; /* Light blue */
-        }
-        .community {
-            background-color: #f8bbd0; /* Light pink */
-        }
-        .contacts {
-            background-color: #d1c4e9; /* Light purple */
-        }
-        .latest-news {
-            background-color: #f9f9f9;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        @media (max-width: 600px) {
-            nav ul li {
-                display: block;
-                margin: 5px 0;
-            }
-            .tutorial {
-                flex: 1 1 100%;
-            }
-            .latest-news {
-                margin-top: 20px; /* Adds space above on mobile */
-            }
-        }
-
-
-
-
-
 
 .table {
   width: 400px;
