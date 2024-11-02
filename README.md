@@ -164,8 +164,15 @@ Follow this step-by-step guide to get started with **MIT App Inventor** and begi
 
 
 
-</br>
-</br>
+<br>
+
+[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api)](https://github.com/cheehwatang/github-readme-daily-quotes)
+
+<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
+
+
+
+<br>
 
 
 # 🌟 **Let's Make a Simple Game on MIT App Inventor** 🌟
@@ -424,9 +431,7 @@ A list of things:
     <p>Put Content Here</p>
 </details>
 
-[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api)](https://github.com/cheehwatang/github-readme-daily-quotes)
 
-<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
 <hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
 
 
